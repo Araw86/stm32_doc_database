@@ -1,0 +1,17 @@
+{
+  "scrapedAt": "2026-05-03T19:44:55.538Z",
+  "databaseVersion": 44,
+  "databaseVersionCreatedAt": "2026-04-27T19:35:25.260Z",
+  "counts": {
+    "families": 32,
+    "subfamilies": 131,
+    "devices": 1802,
+    "documents": 1027
+  },
+  "files": {
+    "families": "families.json",
+    "subfamilies": "subfamilies.json",
+    "devices": "devices.json",
+    "documents": "documents.json"
+  }
+}

@@ -1,0 +1,1635 @@
+{
+  "families": [
+    {
+      "id": "STM32F2",
+      "name": "STM32F2 series",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f2-series.html",
+      "subfamilyIds": [
+        "STM32F2X5",
+        "STM32F2X7"
+      ]
+    },
+    {
+      "id": "STM32F4",
+      "name": "STM32F4 series",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f4-series.html",
+      "subfamilyIds": [
+        "STM32F401",
+        "STM32F405-415",
+        "STM32F407-417",
+        "STM32F410",
+        "STM32F411",
+        "STM32F412",
+        "STM32F413-423",
+        "STM32F427-437",
+        "STM32F429-439",
+        "STM32F446",
+        "STM32F469-479"
+      ]
+    },
+    {
+      "id": "STM32F7",
+      "name": "STM32F7 series",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f7-series.html",
+      "subfamilyIds": [
+        "STM32F7X0-VALUE-LINE",
+        "STM32F7X2",
+        "STM32F7X3",
+        "STM32F7X5",
+        "STM32F7X6",
+        "STM32F7X7",
+        "STM32F7X9"
+      ]
+    },
+    {
+      "id": "STM32H5",
+      "name": "STM32H5 series",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h5-series.html",
+      "subfamilyIds": [
+        "STM32H503",
+        "STM32H523-533",
+        "STM32H562",
+        "STM32H563-573",
+        "STM32H5E4-5F4",
+        "STM32H5E5-5F5"
+      ]
+    },
+    {
+      "id": "STM32H7",
+      "name": "STM32H7 series",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h7-series.html",
+      "subfamilyIds": [
+        "STM32H723-733",
+        "STM32H725-735",
+        "STM32H730-VALUE-LINE",
+        "STM32H742",
+        "STM32H743-753",
+        "STM32H745-755",
+        "STM32H747-757",
+        "STM32H750-VALUE-LINE",
+        "STM32H7A3-7B3",
+        "STM32H7B0-VALUE-LINE",
+        "STM32H7R3-7S3",
+        "STM32H7R7-7S7"
+      ]
+    },
+    {
+      "id": "STM32N6",
+      "name": "STM32N6 series",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32n6-series.html",
+      "subfamilyIds": [
+        "STM32N6X5",
+        "STM32N6X7"
+      ]
+    },
+    {
+      "id": "STM32C0",
+      "name": "STM32C0 series",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32c0-series.html",
+      "subfamilyIds": []
+    },
+    {
+      "id": "STM32C5",
+      "name": "STM32C5 series",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32c5-series.html",
+      "subfamilyIds": [
+        "STM32C53X-542",
+        "STM32C55X-562",
+        "STM32C59X-5A3"
+      ]
+    },
+    {
+      "id": "STM32F0",
+      "name": "STM32F0 series",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f0-series.html",
+      "subfamilyIds": [
+        "STM32F0X0-VALUE-LINE",
+        "STM32F0X1",
+        "STM32F0X2",
+        "STM32F0X8"
+      ]
+    },
+    {
+      "id": "STM32F1",
+      "name": "STM32F1 series",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f1-series.html",
+      "subfamilyIds": [
+        "STM32F100-VALUE-LINE",
+        "STM32F101",
+        "STM32F102",
+        "STM32F103",
+        "STM32F105-107"
+      ]
+    },
+    {
+      "id": "STM32F3",
+      "name": "STM32F3 series",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f3-series.html",
+      "subfamilyIds": [
+        "STM32F301",
+        "STM32F302",
+        "STM32F303",
+        "STM32F334",
+        "STM32F373",
+        "STM32F3X8"
+      ]
+    },
+    {
+      "id": "STM32G0",
+      "name": "STM32G0 series",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32g0-series.html",
+      "subfamilyIds": [
+        "STM32G0X0-VALUE-LINE",
+        "STM32G0X1"
+      ]
+    },
+    {
+      "id": "STM32G4",
+      "name": "STM32G4 series",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32g4-series.html",
+      "subfamilyIds": [
+        "STM32G4X1",
+        "STM32G4X3",
+        "STM32G4X4"
+      ]
+    },
+    {
+      "id": "STM32L0",
+      "name": "STM32L0 series",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l0-series.html",
+      "subfamilyIds": [
+        "STM32L0X0-VALUE-LINE",
+        "STM32L0X1",
+        "STM32L0X2",
+        "STM32L0X3"
+      ]
+    },
+    {
+      "id": "STM32L1",
+      "name": "STM32L1 series",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l1-series.html",
+      "subfamilyIds": [
+        "STM32L100-VALUE-LINE",
+        "STM32L151-152",
+        "STM32L162"
+      ]
+    },
+    {
+      "id": "STM32L4",
+      "name": "STM32L4 series",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4-series.html",
+      "subfamilyIds": [
+        "STM32L4X1",
+        "STM32L4X2",
+        "STM32L4X3",
+        "STM32L4X5",
+        "STM32L4X6"
+      ]
+    },
+    {
+      "id": "STM32L4+",
+      "name": "STM32L4+ series",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4-plus-series.html",
+      "subfamilyIds": [
+        "STM32L4P5-Q5",
+        "STM32L4R5-S5",
+        "STM32L4R7-S7",
+        "STM32L4R9-S9"
+      ]
+    },
+    {
+      "id": "STM32L5",
+      "name": "STM32L5 series",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l5-series.html",
+      "subfamilyIds": [
+        "STM32L5X2"
+      ]
+    },
+    {
+      "id": "STM32U0",
+      "name": "STM32U0 series",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32u0-series.html",
+      "subfamilyIds": []
+    },
+    {
+      "id": "STM32U3",
+      "name": "STM32U3 series",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32u3-series.html",
+      "subfamilyIds": [
+        "STM32U375-385",
+        "STM32U3B5-3C5"
+      ]
+    },
+    {
+      "id": "STM32U5",
+      "name": "STM32U5 series",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32u5-series.html",
+      "subfamilyIds": [
+        "STM32U535-545",
+        "STM32U575-585",
+        "STM32U595-5A5",
+        "STM32U599-5A9",
+        "STM32U5F7-5G7",
+        "STM32U5F9-5G9"
+      ]
+    },
+    {
+      "id": "STM32WB",
+      "name": "STM32WB series",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wb-series.html",
+      "subfamilyIds": [
+        "STM32WBX0-VALUE-LINE",
+        "STM32WBX5",
+        "STM32WBXM-MODULES"
+      ]
+    },
+    {
+      "id": "STM32WB0",
+      "name": "STM32WB0 series",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wb0-series.html",
+      "subfamilyIds": []
+    },
+    {
+      "id": "STM32WBA",
+      "name": "STM32WBA series",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wba-series.html",
+      "subfamilyIds": [
+        "STM32WBA2X",
+        "STM32WBA5X",
+        "STM32WBA6X",
+        "STM32WBAXM-MODULES"
+      ]
+    },
+    {
+      "id": "STM32WL",
+      "name": "STM32WL series",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wl-series.html",
+      "subfamilyIds": [
+        "STM32WL3X",
+        "STM32WL5M-MODULES",
+        "STM32WL5X-EX"
+      ]
+    },
+    {
+      "id": "STM32MP1",
+      "name": "STM32MP1 series",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp1-series.html",
+      "subfamilyIds": [
+        "STM32MP131",
+        "STM32MP133",
+        "STM32MP135",
+        "STM32MP151",
+        "STM32MP153",
+        "STM32MP157"
+      ]
+    },
+    {
+      "id": "STM32MP2",
+      "name": "STM32MP2 series",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp2-series.html",
+      "subfamilyIds": [
+        "STM32MP211",
+        "STM32MP213",
+        "STM32MP215",
+        "STM32MP231",
+        "STM32MP233",
+        "STM32MP235",
+        "STM32MP251",
+        "STM32MP253",
+        "STM32MP255",
+        "STM32MP257"
+      ]
+    },
+    {
+      "id": "STM8AF",
+      "name": "STM8AF series",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8af-series.html",
+      "subfamilyIds": [
+        "STM8AF52",
+        "STM8AF62",
+        "STM8AF63"
+      ]
+    },
+    {
+      "id": "STM8AL",
+      "name": "STM8AL series",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8al-series.html",
+      "subfamilyIds": [
+        "STM8AL31",
+        "STM8AL3L"
+      ]
+    },
+    {
+      "id": "STM8L",
+      "name": "STM8L series",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8l-series.html",
+      "subfamilyIds": [
+        "STM8L-VALUE-LINE",
+        "STM8L101",
+        "STM8L151-152",
+        "STM8L162"
+      ]
+    },
+    {
+      "id": "STM8S",
+      "name": "STM8S series",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8s-series.html",
+      "subfamilyIds": [
+        "STM8S-APPLICATION-SPECIFIC-LINE",
+        "STM8S-VALUE-LINE",
+        "STM8S103-105",
+        "STM8S207-208"
+      ]
+    },
+    {
+      "id": "STM8T",
+      "name": "STM8T series",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8t-series.html",
+      "subfamilyIds": [
+        "STM8TL52-L53"
+      ]
+    }
+  ],
+  "subfamilies": [
+    {
+      "id": "STM32F2X5",
+      "name": "STM32F2x5",
+      "familyId": "STM32F2",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f2x5.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f2x5/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f2x5/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32F2X7",
+      "name": "STM32F2x7",
+      "familyId": "STM32F2",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f2x7.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f2x7/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f2x7/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32F401",
+      "name": "STM32F401",
+      "familyId": "STM32F4",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f401.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f401/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f401/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32F405-415",
+      "name": "STM32F405/415",
+      "familyId": "STM32F4",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f405-415.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f405-415/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f405-415/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32F407-417",
+      "name": "STM32F407/417",
+      "familyId": "STM32F4",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f407-417.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f407-417/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f407-417/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32F410",
+      "name": "STM32F410",
+      "familyId": "STM32F4",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f410.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f410/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f410/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32F411",
+      "name": "STM32F411",
+      "familyId": "STM32F4",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f411.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f411/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f411/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32F412",
+      "name": "STM32F412",
+      "familyId": "STM32F4",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f412.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f412/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f412/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32F413-423",
+      "name": "STM32F413/423",
+      "familyId": "STM32F4",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f413-423.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f413-423/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f413-423/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32F427-437",
+      "name": "STM32F427/437",
+      "familyId": "STM32F4",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f427-437.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f427-437/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f427-437/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32F429-439",
+      "name": "STM32F429/439",
+      "familyId": "STM32F4",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f429-439.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f429-439/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f429-439/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32F446",
+      "name": "STM32F446",
+      "familyId": "STM32F4",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f446.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f446/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f446/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32F469-479",
+      "name": "STM32F469/479",
+      "familyId": "STM32F4",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f469-479.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f469-479/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f469-479/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32F7X0-VALUE-LINE",
+      "name": "STM32F7x0 value line",
+      "familyId": "STM32F7",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f7x0-value-line.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f7x0-value-line/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f7x0-value-line/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32F7X2",
+      "name": "STM32F7x2",
+      "familyId": "STM32F7",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f7x2.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f7x2/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f7x2/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32F7X3",
+      "name": "STM32F7x3",
+      "familyId": "STM32F7",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f7x3.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f7x3/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f7x3/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32F7X5",
+      "name": "STM32F7x5",
+      "familyId": "STM32F7",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f7x5.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f7x5/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f7x5/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32F7X6",
+      "name": "STM32F7x6",
+      "familyId": "STM32F7",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f7x6.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f7x6/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f7x6/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32F7X7",
+      "name": "STM32F7x7",
+      "familyId": "STM32F7",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f7x7.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f7x7/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f7x7/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32F7X9",
+      "name": "STM32F7x9",
+      "familyId": "STM32F7",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f7x9.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f7x9/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f7x9/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32H503",
+      "name": "STM32H503",
+      "familyId": "STM32H5",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h503.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h503/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h503/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32H523-533",
+      "name": "STM32H523/533",
+      "familyId": "STM32H5",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h523-533.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h523-533/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h523-533/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32H562",
+      "name": "STM32H562",
+      "familyId": "STM32H5",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h562.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h562/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h562/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32H563-573",
+      "name": "STM32H563/573",
+      "familyId": "STM32H5",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h563-573.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h563-573/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h563-573/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32H5E4-5F4",
+      "name": "STM32H5E4/5F4",
+      "familyId": "STM32H5",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h5e4-5f4.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h5e4-5f4/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h5e4-5f4/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32H5E5-5F5",
+      "name": "STM32H5E5/5F5",
+      "familyId": "STM32H5",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h5e5-5f5.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h5e5-5f5/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h5e5-5f5/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32H723-733",
+      "name": "STM32H723/733",
+      "familyId": "STM32H7",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h723-733.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h723-733/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h723-733/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32H725-735",
+      "name": "STM32H725/735",
+      "familyId": "STM32H7",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h725-735.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h725-735/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h725-735/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32H730-VALUE-LINE",
+      "name": "STM32H730 value line",
+      "familyId": "STM32H7",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h730-value-line.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h730-value-line/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h730-value-line/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32H742",
+      "name": "STM32H742",
+      "familyId": "STM32H7",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h742.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h742/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h742/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32H743-753",
+      "name": "STM32H743/753",
+      "familyId": "STM32H7",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h743-753.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h743-753/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h743-753/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32H745-755",
+      "name": "STM32H745/755",
+      "familyId": "STM32H7",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h745-755.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h745-755/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h745-755/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32H747-757",
+      "name": "STM32H747/757",
+      "familyId": "STM32H7",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h747-757.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h747-757/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h747-757/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32H750-VALUE-LINE",
+      "name": "STM32H750 value line",
+      "familyId": "STM32H7",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h750-value-line.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h750-value-line/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h750-value-line/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32H7A3-7B3",
+      "name": "STM32H7A3/7B3",
+      "familyId": "STM32H7",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h7a3-7b3.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h7a3-7b3/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h7a3-7b3/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32H7B0-VALUE-LINE",
+      "name": "STM32H7B0 value line",
+      "familyId": "STM32H7",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h7b0-value-line.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h7b0-value-line/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h7b0-value-line/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32H7R3-7S3",
+      "name": "STM32H7R3/7S3",
+      "familyId": "STM32H7",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h7r3-7s3.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h7r3-7s3/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h7r3-7s3/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32H7R7-7S7",
+      "name": "STM32H7R7/7S7",
+      "familyId": "STM32H7",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h7r7-7s7.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h7r7-7s7/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h7r7-7s7/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32N6X5",
+      "name": "STM32N6x5",
+      "familyId": "STM32N6",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32n6x5.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32n6x5/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32n6x5/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32N6X7",
+      "name": "STM32N6x7",
+      "familyId": "STM32N6",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32n6x7.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32n6x7/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32n6x7/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32C53X-542",
+      "name": "STM32C53x/542",
+      "familyId": "STM32C5",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32c53x-542.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32c53x-542/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32c53x-542/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32C55X-562",
+      "name": "STM32C55x/562",
+      "familyId": "STM32C5",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32c55x-562.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32c55x-562/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32c55x-562/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32C59X-5A3",
+      "name": "STM32C59x/5A3",
+      "familyId": "STM32C5",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32c59x-5a3.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32c59x-5a3/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32c59x-5a3/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32F0X0-VALUE-LINE",
+      "name": "STM32F0x0 value Line",
+      "familyId": "STM32F0",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f0x0-value-line.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f0x0-value-line/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f0x0-value-line/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32F0X1",
+      "name": "STM32F0x1",
+      "familyId": "STM32F0",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f0x1.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f0x1/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f0x1/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32F0X2",
+      "name": "STM32F0x2",
+      "familyId": "STM32F0",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f0x2.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f0x2/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f0x2/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32F0X8",
+      "name": "STM32F0x8",
+      "familyId": "STM32F0",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f0x8.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f0x8/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f0x8/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32F100-VALUE-LINE",
+      "name": "STM32F100 value Line",
+      "familyId": "STM32F1",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f100-value-line.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f100-value-line/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f100-value-line/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32F101",
+      "name": "STM32F101",
+      "familyId": "STM32F1",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f101.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f101/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f101/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32F102",
+      "name": "STM32F102",
+      "familyId": "STM32F1",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f102.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f102/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f102/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32F103",
+      "name": "STM32F103",
+      "familyId": "STM32F1",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f103.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f103/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f103/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32F105-107",
+      "name": "STM32F105/107",
+      "familyId": "STM32F1",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f105-107.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f105-107/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f105-107/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32F301",
+      "name": "STM32F301",
+      "familyId": "STM32F3",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f301.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f301/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f301/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32F302",
+      "name": "STM32F302",
+      "familyId": "STM32F3",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f302.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f302/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f302/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32F303",
+      "name": "STM32F303",
+      "familyId": "STM32F3",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f303.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f303/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f303/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32F334",
+      "name": "STM32F334",
+      "familyId": "STM32F3",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f334.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f334/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f334/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32F373",
+      "name": "STM32F373",
+      "familyId": "STM32F3",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f373.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f373/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f373/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32F3X8",
+      "name": "STM32F3x8",
+      "familyId": "STM32F3",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f3x8.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f3x8/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32f3x8/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32G0X0-VALUE-LINE",
+      "name": "STM32G0x0 value line",
+      "familyId": "STM32G0",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32g0x0-value-line.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32g0x0-value-line/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32g0x0-value-line/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32G0X1",
+      "name": "STM32G0x1",
+      "familyId": "STM32G0",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32g0x1.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32g0x1/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32g0x1/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32G4X1",
+      "name": "STM32G4x1",
+      "familyId": "STM32G4",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32g4x1.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32g4x1/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32g4x1/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32G4X3",
+      "name": "STM32G4x3",
+      "familyId": "STM32G4",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32g4x3.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32g4x3/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32g4x3/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32G4X4",
+      "name": "STM32G4x4",
+      "familyId": "STM32G4",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32g4x4.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32g4x4/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32g4x4/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32L0X0-VALUE-LINE",
+      "name": "STM32L0x0 value line",
+      "familyId": "STM32L0",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l0x0-value-line.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32l0x0-value-line/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32l0x0-value-line/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32L0X1",
+      "name": "STM32L0x1",
+      "familyId": "STM32L0",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l0x1.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32l0x1/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32l0x1/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32L0X2",
+      "name": "STM32L0x2",
+      "familyId": "STM32L0",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l0x2.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32l0x2/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32l0x2/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32L0X3",
+      "name": "STM32L0x3",
+      "familyId": "STM32L0",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l0x3.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32l0x3/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32l0x3/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32L100-VALUE-LINE",
+      "name": "STM32L100 value line",
+      "familyId": "STM32L1",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l100-value-line.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32l100-value-line/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32l100-value-line/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32L151-152",
+      "name": "STM32L151/152",
+      "familyId": "STM32L1",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l151-152.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32l151-152/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32l151-152/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32L162",
+      "name": "STM32L162",
+      "familyId": "STM32L1",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l162.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32l162/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32l162/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32L4X1",
+      "name": "STM32L4x1",
+      "familyId": "STM32L4",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4x1.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4x1/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4x1/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32L4X2",
+      "name": "STM32L4x2",
+      "familyId": "STM32L4",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4x2.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4x2/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4x2/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32L4X3",
+      "name": "STM32L4x3",
+      "familyId": "STM32L4",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4x3.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4x3/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4x3/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32L4X5",
+      "name": "STM32L4x5",
+      "familyId": "STM32L4",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4x5.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4x5/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4x5/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32L4X6",
+      "name": "STM32L4x6",
+      "familyId": "STM32L4",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4x6.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4x6/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4x6/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32L4P5-Q5",
+      "name": "STM32L4P5/Q5",
+      "familyId": "STM32L4+",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4p5-q5.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4p5-q5/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4p5-q5/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32L4R5-S5",
+      "name": "STM32L4R5/S5",
+      "familyId": "STM32L4+",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4r5-s5.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4r5-s5/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4r5-s5/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32L4R7-S7",
+      "name": "STM32L4R7/S7",
+      "familyId": "STM32L4+",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4r7-s7.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4r7-s7/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4r7-s7/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32L4R9-S9",
+      "name": "STM32L4R9/S9",
+      "familyId": "STM32L4+",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4r9-s9.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4r9-s9/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4r9-s9/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32L5X2",
+      "name": "STM32L5x2",
+      "familyId": "STM32L5",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l5x2.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32l5x2/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32l5x2/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32U375-385",
+      "name": "STM32U375/385",
+      "familyId": "STM32U3",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32u375-385.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32u375-385/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32u375-385/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32U3B5-3C5",
+      "name": "STM32U3B5/3C5",
+      "familyId": "STM32U3",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32u3b5-3c5.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32u3b5-3c5/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32u3b5-3c5/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32U535-545",
+      "name": "STM32U535/545",
+      "familyId": "STM32U5",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32u535-545.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32u535-545/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32u535-545/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32U575-585",
+      "name": "STM32U575/585",
+      "familyId": "STM32U5",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32u575-585.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32u575-585/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32u575-585/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32U595-5A5",
+      "name": "STM32U595/5A5",
+      "familyId": "STM32U5",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32u595-5a5.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32u595-5a5/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32u595-5a5/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32U599-5A9",
+      "name": "STM32U599/5A9",
+      "familyId": "STM32U5",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32u599-5a9.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32u599-5a9/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32u599-5a9/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32U5F7-5G7",
+      "name": "STM32U5F7/5G7",
+      "familyId": "STM32U5",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32u5f7-5g7.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32u5f7-5g7/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32u5f7-5g7/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32U5F9-5G9",
+      "name": "STM32U5F9/5G9",
+      "familyId": "STM32U5",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32u5f9-5g9.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32u5f9-5g9/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32u5f9-5g9/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32WBX0-VALUE-LINE",
+      "name": "STM32WBx0 value line",
+      "familyId": "STM32WB",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wbx0-value-line.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32wbx0-value-line/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32wbx0-value-line/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32WBX5",
+      "name": "STM32WBx5",
+      "familyId": "STM32WB",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wbx5.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32wbx5/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32wbx5/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32WBXM-MODULES",
+      "name": "STM32WBxM modules",
+      "familyId": "STM32WB",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wbxm-modules.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32wbxm-modules/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32wbxm-modules/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32WBA2X",
+      "name": "STM32WBA2x",
+      "familyId": "STM32WBA",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wba2x.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32wba2x/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32wba2x/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32WBA5X",
+      "name": "STM32WBA5x",
+      "familyId": "STM32WBA",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wba5x.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32wba5x/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32wba5x/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32WBA6X",
+      "name": "STM32WBA6x",
+      "familyId": "STM32WBA",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wba6x.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32wba6x/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32wba6x/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32WBAXM-MODULES",
+      "name": "STM32WBAxM modules",
+      "familyId": "STM32WBA",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wbaxm-modules.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32wbaxm-modules/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32wbaxm-modules/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32WL3X",
+      "name": "STM32WL3x",
+      "familyId": "STM32WL",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wl3x.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32wl3x/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32wl3x/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32WL5M-MODULES",
+      "name": "STM32WL5M modules",
+      "familyId": "STM32WL",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wl5m-modules.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32wl5m-modules/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32wl5m-modules/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32WL5X-EX",
+      "name": "STM32WL5x/Ex",
+      "familyId": "STM32WL",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wl5x-ex.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32wl5x-ex/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32wl5x-ex/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32MP131",
+      "name": "STM32MP131",
+      "familyId": "STM32MP1",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp131.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp131/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp131/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32MP133",
+      "name": "STM32MP133",
+      "familyId": "STM32MP1",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp133.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp133/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp133/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32MP135",
+      "name": "STM32MP135",
+      "familyId": "STM32MP1",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp135.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp135/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp135/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32MP151",
+      "name": "STM32MP151",
+      "familyId": "STM32MP1",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp151.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp151/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp151/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32MP153",
+      "name": "STM32MP153",
+      "familyId": "STM32MP1",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp153.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp153/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp153/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32MP157",
+      "name": "STM32MP157",
+      "familyId": "STM32MP1",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp157.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp157/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp157/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32MP211",
+      "name": "STM32MP211",
+      "familyId": "STM32MP2",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp211.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp211/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp211/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32MP213",
+      "name": "STM32MP213",
+      "familyId": "STM32MP2",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp213.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp213/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp213/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32MP215",
+      "name": "STM32MP215",
+      "familyId": "STM32MP2",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp215.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp215/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp215/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32MP231",
+      "name": "STM32MP231",
+      "familyId": "STM32MP2",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp231.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp231/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp231/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32MP233",
+      "name": "STM32MP233",
+      "familyId": "STM32MP2",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp233.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp233/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp233/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32MP235",
+      "name": "STM32MP235",
+      "familyId": "STM32MP2",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp235.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp235/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp235/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32MP251",
+      "name": "STM32MP251",
+      "familyId": "STM32MP2",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp251.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp251/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp251/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32MP253",
+      "name": "STM32MP253",
+      "familyId": "STM32MP2",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp253.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp253/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp253/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32MP255",
+      "name": "STM32MP255",
+      "familyId": "STM32MP2",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp255.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp255/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp255/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32MP257",
+      "name": "STM32MP257",
+      "familyId": "STM32MP2",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp257.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp257/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp257/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM8AF52",
+      "name": "STM8AF52",
+      "familyId": "STM8AF",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8af52.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm8af52/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm8af52/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM8AF62",
+      "name": "STM8AF62",
+      "familyId": "STM8AF",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8af62.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm8af62/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm8af62/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM8AF63",
+      "name": "STM8AF63",
+      "familyId": "STM8AF",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8af63.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm8af63/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm8af63/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM8AL31",
+      "name": "STM8AL31",
+      "familyId": "STM8AL",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8al31.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm8al31/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm8al31/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM8AL3L",
+      "name": "STM8AL3L",
+      "familyId": "STM8AL",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8al3l.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm8al3l/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm8al3l/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM8L-VALUE-LINE",
+      "name": "STM8L value line",
+      "familyId": "STM8L",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8l-value-line.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm8l-value-line/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm8l-value-line/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM8L101",
+      "name": "STM8L101",
+      "familyId": "STM8L",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8l101.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm8l101/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm8l101/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM8L151-152",
+      "name": "STM8L151/152",
+      "familyId": "STM8L",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8l151-152.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm8l151-152/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm8l151-152/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM8L162",
+      "name": "STM8L162",
+      "familyId": "STM8L",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8l162.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm8l162/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm8l162/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM8S-APPLICATION-SPECIFIC-LINE",
+      "name": "STM8S application specific line",
+      "familyId": "STM8S",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8s-application-specific-line.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm8s-application-specific-line/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm8s-application-specific-line/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM8S-VALUE-LINE",
+      "name": "STM8S value line",
+      "familyId": "STM8S",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8s-value-line.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm8s-value-line/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm8s-value-line/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM8S103-105",
+      "name": "STM8S103/105",
+      "familyId": "STM8S",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8s103-105.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm8s103-105/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm8s103-105/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM8S207-208",
+      "name": "STM8S207/208",
+      "familyId": "STM8S",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8s207-208.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm8s207-208/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm8s207-208/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM8TL52-L53",
+      "name": "STM8TL52/L53",
+      "familyId": "STM8T",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8tl52-l53.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm8tl52-l53/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm8tl52-l53/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    }
+  ]
+}

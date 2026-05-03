@@ -1,0 +1,351 @@
+[
+  {
+    "id": "STM32F2",
+    "name": "STM32F2 series",
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f2-series.html",
+    "subfamilyIds": [
+      "STM32F2X5",
+      "STM32F2X7"
+    ]
+  },
+  {
+    "id": "STM32F4",
+    "name": "STM32F4 series",
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f4-series.html",
+    "subfamilyIds": [
+      "STM32F401",
+      "STM32F405-415",
+      "STM32F407-417",
+      "STM32F410",
+      "STM32F411",
+      "STM32F412",
+      "STM32F413-423",
+      "STM32F427-437",
+      "STM32F429-439",
+      "STM32F446",
+      "STM32F469-479"
+    ]
+  },
+  {
+    "id": "STM32F7",
+    "name": "STM32F7 series",
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f7-series.html",
+    "subfamilyIds": [
+      "STM32F7X0-VALUE-LINE",
+      "STM32F7X2",
+      "STM32F7X3",
+      "STM32F7X5",
+      "STM32F7X6",
+      "STM32F7X7",
+      "STM32F7X9"
+    ]
+  },
+  {
+    "id": "STM32H5",
+    "name": "STM32H5 series",
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h5-series.html",
+    "subfamilyIds": [
+      "STM32H503",
+      "STM32H523-533",
+      "STM32H562",
+      "STM32H563-573",
+      "STM32H5E4-5F4",
+      "STM32H5E5-5F5"
+    ]
+  },
+  {
+    "id": "STM32H7",
+    "name": "STM32H7 series",
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h7-series.html",
+    "subfamilyIds": [
+      "STM32H723-733",
+      "STM32H725-735",
+      "STM32H730-VALUE-LINE",
+      "STM32H742",
+      "STM32H743-753",
+      "STM32H745-755",
+      "STM32H747-757",
+      "STM32H750-VALUE-LINE",
+      "STM32H7A3-7B3",
+      "STM32H7B0-VALUE-LINE",
+      "STM32H7R3-7S3",
+      "STM32H7R7-7S7"
+    ]
+  },
+  {
+    "id": "STM32N6",
+    "name": "STM32N6 series",
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32n6-series.html",
+    "subfamilyIds": [
+      "STM32N6X5",
+      "STM32N6X7"
+    ]
+  },
+  {
+    "id": "STM32C0",
+    "name": "STM32C0 series",
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32c0-series.html",
+    "subfamilyIds": []
+  },
+  {
+    "id": "STM32C5",
+    "name": "STM32C5 series",
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32c5-series.html",
+    "subfamilyIds": [
+      "STM32C53X-542",
+      "STM32C55X-562",
+      "STM32C59X-5A3"
+    ]
+  },
+  {
+    "id": "STM32F0",
+    "name": "STM32F0 series",
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f0-series.html",
+    "subfamilyIds": [
+      "STM32F0X0-VALUE-LINE",
+      "STM32F0X1",
+      "STM32F0X2",
+      "STM32F0X8"
+    ]
+  },
+  {
+    "id": "STM32F1",
+    "name": "STM32F1 series",
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f1-series.html",
+    "subfamilyIds": [
+      "STM32F100-VALUE-LINE",
+      "STM32F101",
+      "STM32F102",
+      "STM32F103",
+      "STM32F105-107"
+    ]
+  },
+  {
+    "id": "STM32F3",
+    "name": "STM32F3 series",
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f3-series.html",
+    "subfamilyIds": [
+      "STM32F301",
+      "STM32F302",
+      "STM32F303",
+      "STM32F334",
+      "STM32F373",
+      "STM32F3X8"
+    ]
+  },
+  {
+    "id": "STM32G0",
+    "name": "STM32G0 series",
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32g0-series.html",
+    "subfamilyIds": [
+      "STM32G0X0-VALUE-LINE",
+      "STM32G0X1"
+    ]
+  },
+  {
+    "id": "STM32G4",
+    "name": "STM32G4 series",
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32g4-series.html",
+    "subfamilyIds": [
+      "STM32G4X1",
+      "STM32G4X3",
+      "STM32G4X4"
+    ]
+  },
+  {
+    "id": "STM32L0",
+    "name": "STM32L0 series",
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l0-series.html",
+    "subfamilyIds": [
+      "STM32L0X0-VALUE-LINE",
+      "STM32L0X1",
+      "STM32L0X2",
+      "STM32L0X3"
+    ]
+  },
+  {
+    "id": "STM32L1",
+    "name": "STM32L1 series",
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l1-series.html",
+    "subfamilyIds": [
+      "STM32L100-VALUE-LINE",
+      "STM32L151-152",
+      "STM32L162"
+    ]
+  },
+  {
+    "id": "STM32L4",
+    "name": "STM32L4 series",
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4-series.html",
+    "subfamilyIds": [
+      "STM32L4X1",
+      "STM32L4X2",
+      "STM32L4X3",
+      "STM32L4X5",
+      "STM32L4X6"
+    ]
+  },
+  {
+    "id": "STM32L4+",
+    "name": "STM32L4+ series",
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4-plus-series.html",
+    "subfamilyIds": [
+      "STM32L4P5-Q5",
+      "STM32L4R5-S5",
+      "STM32L4R7-S7",
+      "STM32L4R9-S9"
+    ]
+  },
+  {
+    "id": "STM32L5",
+    "name": "STM32L5 series",
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l5-series.html",
+    "subfamilyIds": [
+      "STM32L5X2"
+    ]
+  },
+  {
+    "id": "STM32U0",
+    "name": "STM32U0 series",
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32u0-series.html",
+    "subfamilyIds": []
+  },
+  {
+    "id": "STM32U3",
+    "name": "STM32U3 series",
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32u3-series.html",
+    "subfamilyIds": [
+      "STM32U375-385",
+      "STM32U3B5-3C5"
+    ]
+  },
+  {
+    "id": "STM32U5",
+    "name": "STM32U5 series",
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32u5-series.html",
+    "subfamilyIds": [
+      "STM32U535-545",
+      "STM32U575-585",
+      "STM32U595-5A5",
+      "STM32U599-5A9",
+      "STM32U5F7-5G7",
+      "STM32U5F9-5G9"
+    ]
+  },
+  {
+    "id": "STM32WB",
+    "name": "STM32WB series",
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wb-series.html",
+    "subfamilyIds": [
+      "STM32WBX0-VALUE-LINE",
+      "STM32WBX5",
+      "STM32WBXM-MODULES"
+    ]
+  },
+  {
+    "id": "STM32WB0",
+    "name": "STM32WB0 series",
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wb0-series.html",
+    "subfamilyIds": []
+  },
+  {
+    "id": "STM32WBA",
+    "name": "STM32WBA series",
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wba-series.html",
+    "subfamilyIds": [
+      "STM32WBA2X",
+      "STM32WBA5X",
+      "STM32WBA6X",
+      "STM32WBAXM-MODULES"
+    ]
+  },
+  {
+    "id": "STM32WL",
+    "name": "STM32WL series",
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wl-series.html",
+    "subfamilyIds": [
+      "STM32WL3X",
+      "STM32WL5M-MODULES",
+      "STM32WL5X-EX"
+    ]
+  },
+  {
+    "id": "STM32MP1",
+    "name": "STM32MP1 series",
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp1-series.html",
+    "subfamilyIds": [
+      "STM32MP131",
+      "STM32MP133",
+      "STM32MP135",
+      "STM32MP151",
+      "STM32MP153",
+      "STM32MP157"
+    ]
+  },
+  {
+    "id": "STM32MP2",
+    "name": "STM32MP2 series",
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp2-series.html",
+    "subfamilyIds": [
+      "STM32MP211",
+      "STM32MP213",
+      "STM32MP215",
+      "STM32MP231",
+      "STM32MP233",
+      "STM32MP235",
+      "STM32MP251",
+      "STM32MP253",
+      "STM32MP255",
+      "STM32MP257"
+    ]
+  },
+  {
+    "id": "STM8AF",
+    "name": "STM8AF series",
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8af-series.html",
+    "subfamilyIds": [
+      "STM8AF52",
+      "STM8AF62",
+      "STM8AF63"
+    ]
+  },
+  {
+    "id": "STM8AL",
+    "name": "STM8AL series",
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8al-series.html",
+    "subfamilyIds": [
+      "STM8AL31",
+      "STM8AL3L"
+    ]
+  },
+  {
+    "id": "STM8L",
+    "name": "STM8L series",
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8l-series.html",
+    "subfamilyIds": [
+      "STM8L-VALUE-LINE",
+      "STM8L101",
+      "STM8L151-152",
+      "STM8L162"
+    ]
+  },
+  {
+    "id": "STM8S",
+    "name": "STM8S series",
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8s-series.html",
+    "subfamilyIds": [
+      "STM8S-APPLICATION-SPECIFIC-LINE",
+      "STM8S-VALUE-LINE",
+      "STM8S103-105",
+      "STM8S207-208"
+    ]
+  },
+  {
+    "id": "STM8T",
+    "name": "STM8T series",
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8t-series.html",
+    "subfamilyIds": [
+      "STM8TL52-L53"
+    ]
+  }
+]
