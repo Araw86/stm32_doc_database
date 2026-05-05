@@ -20069,8 +20069,8 @@
       "STM32WBXM-MODULES"
     ],
     "type": "Application Note",
-    "title": "How to develop RF hardware using STM32WB microcontrollers",
-    "url": "https://www.st.com/resource/en/application_note/an5165-how-to-develop-rf-hardware-using-stm32wb-microcontrollers-stmicroelectronics.pdf",
+    "title": "How to develop RF hardware using STM32WB MCUs",
+    "url": "https://www.st.com/resource/en/application_note/an5165-how-to-develop-rf-hardware-using-stm32wb-mcus-stmicroelectronics.pdf",
     "versions": [
       {
         "version": "10.0",
@@ -20078,6 +20078,14 @@
         "pdfBytes": 5996016,
         "pdfCreated": "2024-04-03T10:23:32Z",
         "pdfModified": "2024-04-03T17:36:28+02:00"
+      },
+      {
+        "version": "11.0",
+        "lastUpdate": "2026-05-04"
+      },
+      {
+        "version": "10.0",
+        "lastUpdate": "2024-04-03"
       }
     ]
   },
@@ -23715,7 +23723,7 @@
     "versions": [
       {
         "version": "5.0",
-        "lastUpdate": "2014-12-23",
+        "lastUpdate": "2014-12-22",
         "pdfBytes": 755444,
         "pdfCreated": "2014-12-18T17:56:08Z",
         "pdfModified": "2014-12-18T18:12:57+01:00"
@@ -25363,8 +25371,9 @@
       "STM32U3B5-3C5",
       "STM32U599-5A9",
       "STM32F407-417",
-      "STM32H563-573",
       "STM32H5E5-5F5",
+      "STM32L0X1",
+      "STM32H563-573",
       "STM32H725-735",
       "STM32H7A3-7B3",
       "STM32C53X-542",
@@ -25373,7 +25382,6 @@
       "STM32F0X8",
       "STM32F101",
       "STM32F103",
-      "STM32L0X1",
       "STM32L151-152",
       "STM32U595-5A5",
       "STM32WBX5",
@@ -25623,6 +25631,14 @@
         "pdfBytes": 445013,
         "pdfCreated": "2022-07-18T12:16:37+08:00",
         "pdfModified": "2022-07-18T12:16:37+08:00"
+      },
+      {
+        "version": "",
+        "lastUpdate": ""
+      },
+      {
+        "version": "10",
+        "lastUpdate": ""
       }
     ]
   },
