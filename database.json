@@ -1,17 +1,21 @@
 {
-  "scrapedAt": "2026-05-05T19:48:51.959Z",
-  "databaseVersion": 46,
+  "scrapedAt": "2026-05-08T17:50:43.235Z",
+  "databaseVersion": 47,
   "databaseVersionCreatedAt": "2026-05-05T19:48:51.959Z",
+  "databaseStructure": 2,
+  "databaseStructureCreatedAt": "2026-05-08T08:48:59.502Z",
   "counts": {
     "families": 32,
     "subfamilies": 131,
     "devices": 1802,
-    "documents": 1027
+    "documents": 1027,
+    "boards": 318
   },
   "files": {
     "families": "families.json",
     "subfamilies": "subfamilies.json",
     "devices": "devices.json",
-    "documents": "documents.json"
+    "documents": "documents.json",
+    "boards": "boards.json"
   }
 }
