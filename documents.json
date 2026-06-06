@@ -188,7 +188,7 @@
     "versions": [
       {
         "version": "5.0",
-        "lastUpdate": "2026-04-17",
+        "lastUpdate": "2026-04-16",
         "pdfBytes": 1255021,
         "pdfCreated": "2026-04-15T10:27:53+01:00",
         "pdfModified": "2026-04-17T17:12:16+02:00"
@@ -314,7 +314,7 @@
     "versions": [
       {
         "version": "9.0",
-        "lastUpdate": "2026-03-02",
+        "lastUpdate": "2026-03-03",
         "pdfBytes": 1569573,
         "pdfCreated": "2026-02-19T11:39:46+01:00",
         "pdfModified": "2026-03-03T10:22:25+01:00"
@@ -425,7 +425,7 @@
     "versions": [
       {
         "version": "21.0",
-        "lastUpdate": "2026-02-18",
+        "lastUpdate": "2026-02-19",
         "pdfBytes": 1064264,
         "pdfCreated": "2026-02-18T10:50:20Z",
         "pdfModified": "2026-02-19T23:56:52+01:00"
@@ -543,7 +543,7 @@
     "versions": [
       {
         "version": "13.0",
-        "lastUpdate": "2026-03-02",
+        "lastUpdate": "2026-03-03",
         "pdfBytes": 4761652,
         "pdfCreated": "2026-02-19T10:07:15+01:00",
         "pdfModified": "2026-03-03T10:22:29+01:00"
@@ -567,7 +567,7 @@
     "versions": [
       {
         "version": "1.0",
-        "lastUpdate": "2011-07-20",
+        "lastUpdate": "2011-07-19",
         "pdfBytes": 383243,
         "pdfCreated": "2011-07-20T15:44:34Z",
         "pdfModified": "2023-11-15T14:20:48+01:00"
@@ -866,8 +866,8 @@
       "STM32WL5X-EX"
     ],
     "type": "Application Note",
-    "title": "STM32 microcontroller GPIO hardware settings and low-power consumption",
-    "url": "https://www.st.com/resource/en/application_note/an4899-stm32-microcontroller-gpio-hardware-settings-and-lowpower-consumption-stmicroelectronics.pdf",
+    "title": "Guidelines for GPIO hardware settings and low-power consumption on STM32 MCUs",
+    "url": "https://www.st.com/resource/en/application_note/an4899-guidelines-for-gpio-hardware-settings-and-lowpower-consumption-on-stm32-mcus-stmicroelectronics.pdf",
     "versions": [
       {
         "version": "3.0",
@@ -875,6 +875,13 @@
         "pdfBytes": 694055,
         "pdfCreated": "2022-03-29T08:26:05Z",
         "pdfModified": "2022-03-29T13:08:34+02:00"
+      },
+      {
+        "version": "4.0",
+        "lastUpdate": "2026-05-21",
+        "pdfBytes": 707053,
+        "pdfCreated": "2026-05-21T09:34:20Z",
+        "pdfModified": "2026-05-21T14:14:23+02:00"
       }
     ]
   },
@@ -1005,7 +1012,7 @@
     "versions": [
       {
         "version": "1.0",
-        "lastUpdate": "2023-10-08",
+        "lastUpdate": "2023-10-09",
         "pdfBytes": 161467,
         "pdfCreated": "2023-10-09T09:23:23+01:00",
         "pdfModified": "2025-01-28T10:32:24+01:00"
@@ -1241,7 +1248,7 @@
     "versions": [
       {
         "version": "3.0",
-        "lastUpdate": "2015-04-24",
+        "lastUpdate": "2015-04-23",
         "pdfBytes": 850920,
         "pdfCreated": "2015-04-21T17:36:07Z",
         "pdfModified": "2015-04-21T17:36:07Z"
@@ -1396,7 +1403,7 @@
     "versions": [
       {
         "version": "1.0",
-        "lastUpdate": "2015-03-19",
+        "lastUpdate": "2015-03-18",
         "pdfBytes": 760915,
         "pdfCreated": "2015-03-17T09:59:36Z",
         "pdfModified": "2015-03-17T09:59:36Z"
@@ -1756,7 +1763,7 @@
     "versions": [
       {
         "version": "5.0",
-        "lastUpdate": "2026-03-02",
+        "lastUpdate": "2026-03-03",
         "pdfBytes": 917733,
         "pdfCreated": "2026-02-25T14:10:46Z",
         "pdfModified": "2026-03-03T10:33:16+01:00"
@@ -1923,7 +1930,7 @@
     "versions": [
       {
         "version": "4.0",
-        "lastUpdate": "2026-01-14",
+        "lastUpdate": "2026-01-15",
         "pdfBytes": 1283358,
         "pdfCreated": "2026-01-05T14:58:25+01:00",
         "pdfModified": "2026-01-15T23:50:40+01:00"
@@ -2140,7 +2147,7 @@
     "versions": [
       {
         "version": "11.0",
-        "lastUpdate": "2026-03-02",
+        "lastUpdate": "2026-03-03",
         "pdfBytes": 2946461,
         "pdfCreated": "2026-02-17T11:37:06+01:00",
         "pdfModified": "2026-03-03T10:22:43+01:00"
@@ -2305,7 +2312,7 @@
     "versions": [
       {
         "version": "1.0",
-        "lastUpdate": "2015-04-16",
+        "lastUpdate": "2015-04-15",
         "pdfBytes": 773152,
         "pdfCreated": "2015-03-12T12:32:49Z",
         "pdfModified": "2015-03-12T12:32:49Z"
@@ -2551,7 +2558,7 @@
     "versions": [
       {
         "version": "1.0",
-        "lastUpdate": "2022-06-07",
+        "lastUpdate": "2022-06-08",
         "pdfBytes": 2281908,
         "pdfCreated": "2022-06-02T14:29:52+01:00",
         "pdfModified": "2024-01-16T12:36:25+01:00"
@@ -2704,7 +2711,7 @@
     "versions": [
       {
         "version": "3.0",
-        "lastUpdate": "2022-08-16",
+        "lastUpdate": "2022-08-17",
         "pdfBytes": 3250536,
         "pdfCreated": "2022-08-10T16:28:55+01:00",
         "pdfModified": "2022-08-17T20:31:00+02:00"
@@ -2856,7 +2863,7 @@
     "versions": [
       {
         "version": "13.0",
-        "lastUpdate": "2026-03-02",
+        "lastUpdate": "2026-03-03",
         "pdfBytes": 1365047,
         "pdfCreated": "2026-02-20T11:17:05+01:00",
         "pdfModified": "2026-03-03T10:22:19+01:00"
@@ -2975,7 +2982,7 @@
     "versions": [
       {
         "version": "24.0",
-        "lastUpdate": "2026-03-03",
+        "lastUpdate": "2026-03-02",
         "pdfBytes": 3207867,
         "pdfCreated": "2026-02-23T15:48:58Z",
         "pdfModified": "2026-03-03T10:22:05+01:00"
@@ -3216,7 +3223,7 @@
     "versions": [
       {
         "version": "4.0",
-        "lastUpdate": "2026-03-02",
+        "lastUpdate": "2026-03-03",
         "pdfBytes": 1970262,
         "pdfCreated": "2026-02-24T12:03:20Z",
         "pdfModified": "2026-03-03T10:21:54+01:00"
@@ -3350,7 +3357,7 @@
     "versions": [
       {
         "version": "7.0",
-        "lastUpdate": "2023-06-26",
+        "lastUpdate": "2023-06-27",
         "pdfBytes": 2882957,
         "pdfCreated": "2023-06-23T15:41:26+01:00",
         "pdfModified": "2023-06-27T08:23:05+02:00"
@@ -3468,7 +3475,7 @@
     "versions": [
       {
         "version": "1.0",
-        "lastUpdate": "2015-03-08",
+        "lastUpdate": "2015-03-09",
         "pdfBytes": 347129,
         "pdfCreated": "2015-03-05T17:24:16Z",
         "pdfModified": "2015-03-05T17:33:14+01:00"
@@ -3658,7 +3665,7 @@
     "versions": [
       {
         "version": "9.0",
-        "lastUpdate": "2025-04-04",
+        "lastUpdate": "2025-04-03",
         "pdfBytes": 1161593,
         "pdfCreated": "2025-04-03T11:33:27+01:00",
         "pdfModified": "2025-04-04T16:36:07+02:00"
@@ -3867,7 +3874,7 @@
     "versions": [
       {
         "version": "8.0",
-        "lastUpdate": "2026-01-18",
+        "lastUpdate": "2026-01-19",
         "pdfBytes": 6339351,
         "pdfCreated": "2026-01-19T14:20:49+01:00",
         "pdfModified": "2026-01-20T00:32:46+01:00"
@@ -4001,7 +4008,7 @@
     "versions": [
       {
         "version": "2.0",
-        "lastUpdate": "2019-07-16",
+        "lastUpdate": "2019-07-17",
         "pdfBytes": 1919300,
         "pdfCreated": "2019-07-17T09:46:18Z",
         "pdfModified": "2019-07-17T13:06:19+02:00"
@@ -4133,7 +4140,7 @@
     "versions": [
       {
         "version": "4.0",
-        "lastUpdate": "2016-08-17",
+        "lastUpdate": "2016-08-16",
         "pdfBytes": 1119450,
         "pdfCreated": "2016-07-26T14:56:37Z",
         "pdfModified": "2016-07-26T15:05:47+02:00"
@@ -4294,7 +4301,7 @@
     "versions": [
       {
         "version": "7.0",
-        "lastUpdate": "2025-11-30",
+        "lastUpdate": "2025-12-01",
         "pdfBytes": 1344187,
         "pdfCreated": "2025-12-01T10:07:22+01:00",
         "pdfModified": "2025-12-01T18:26:51+01:00"
@@ -4412,7 +4419,7 @@
     "versions": [
       {
         "version": "2.0",
-        "lastUpdate": "2015-10-07",
+        "lastUpdate": "2015-10-08",
         "pdfBytes": 420701,
         "pdfCreated": "2015-10-06T10:08:31Z",
         "pdfModified": "2015-10-06T10:11:46+02:00"
@@ -4793,7 +4800,7 @@
     "versions": [
       {
         "version": "14.0",
-        "lastUpdate": "2026-03-02",
+        "lastUpdate": "2026-03-03",
         "pdfBytes": 711538,
         "pdfCreated": "2026-02-25T11:34:17Z",
         "pdfModified": "2026-03-03T10:21:25+01:00"
@@ -4946,7 +4953,7 @@
     "versions": [
       {
         "version": "5.0",
-        "lastUpdate": "2025-12-01",
+        "lastUpdate": "2024-10-04",
         "pdfBytes": 510511,
         "pdfCreated": "2025-11-21T08:29:36+01:00",
         "pdfModified": "2025-12-02T10:49:15+01:00"
@@ -5115,6 +5122,13 @@
         "pdfBytes": 705792,
         "pdfCreated": "2022-07-01T16:23:58+01:00",
         "pdfModified": "2022-07-06T09:04:54+02:00"
+      },
+      {
+        "version": "5.0",
+        "lastUpdate": "2026-05-26",
+        "pdfBytes": 1074071,
+        "pdfCreated": "2026-05-26T14:52:43+01:00",
+        "pdfModified": "2026-05-26T17:31:16+02:00"
       }
     ]
   },
@@ -5225,7 +5239,7 @@
     "versions": [
       {
         "version": "9.0",
-        "lastUpdate": "2025-11-23",
+        "lastUpdate": "2025-11-24",
         "pdfBytes": 1133366,
         "pdfCreated": "2025-11-21T16:53:24+01:00",
         "pdfModified": "2025-11-24T16:48:39+01:00"
@@ -5551,7 +5565,7 @@
     "versions": [
       {
         "version": "2.0",
-        "lastUpdate": "2016-12-02",
+        "lastUpdate": "2016-12-01",
         "pdfBytes": 435912,
         "pdfCreated": "2016-12-02T08:58:18Z",
         "pdfModified": "2016-12-02T15:01:52+01:00"
@@ -5782,7 +5796,7 @@
     "versions": [
       {
         "version": "11.0",
-        "lastUpdate": "2025-02-27",
+        "lastUpdate": "2025-02-28",
         "pdfBytes": 2732268,
         "pdfCreated": "2020-03-23T07:42:33Z",
         "pdfModified": "2020-03-23T11:02:21+01:00"
@@ -5871,7 +5885,7 @@
     "versions": [
       {
         "version": "16.0",
-        "lastUpdate": "2026-02-23",
+        "lastUpdate": "2026-02-24",
         "pdfBytes": 920170,
         "pdfCreated": "2026-02-18T11:58:04Z",
         "pdfModified": "2026-02-24T18:23:18+01:00"
@@ -5985,6 +5999,13 @@
         "pdfBytes": 20990681,
         "pdfCreated": "2024-06-07T12:11:39Z",
         "pdfModified": "2024-06-10T09:24:38+02:00"
+      },
+      {
+        "version": "22.0",
+        "lastUpdate": "2026-05-29",
+        "pdfBytes": 21385881,
+        "pdfCreated": "2026-05-04T16:50:13Z",
+        "pdfModified": "2026-05-29T15:35:05+02:00"
       }
     ]
   },
@@ -6710,7 +6731,7 @@
     "versions": [
       {
         "version": "1.0",
-        "lastUpdate": "2015-03-19",
+        "lastUpdate": "2015-03-18",
         "pdfBytes": 406318,
         "pdfCreated": "2015-03-18T10:55:57Z",
         "pdfModified": "2015-03-18T10:57:35+01:00"
@@ -6806,7 +6827,7 @@
       "STM32F446"
     ],
     "type": "Datasheet",
-    "title": "Arm® Cortex®-M4 32-bit MCU+FPU, 225 DMIPS, up to 512 KB Flash/128+4 KB RAM, USB OTG HS/FS, seventeen TIMs, three ADCs and twenty communication interfaces",
+    "title": "Arm® Cortex®-M4 32-bit MCU+FPU, 225 DMIPS, up to 512 KB flash/128+4 KB RAM, USB OTG HS/FS, seventeen TIMs, three ADCs and twenty communication interfaces",
     "url": "https://www.st.com/resource/en/datasheet/stm32f446mc.pdf",
     "versions": [
       {
@@ -6815,6 +6836,13 @@
         "pdfBytes": 3155426,
         "pdfCreated": "2021-01-22T15:19:06Z",
         "pdfModified": "2021-01-25T10:07:12+01:00"
+      },
+      {
+        "version": "11.0",
+        "lastUpdate": "2026-05-28",
+        "pdfBytes": 2895510,
+        "pdfCreated": "2026-05-13T09:30:05Z",
+        "pdfModified": "2026-05-29T15:35:03+02:00"
       }
     ]
   },
@@ -7046,7 +7074,7 @@
       "STM32H7R7-7S7"
     ],
     "type": "Programming Manual",
-    "title": "STM32F7 Series and STM32H7 Series Cortex®-M7 processor programming manual",
+    "title": "STM32F7 series and STM32H7 series Cortex®-M7 processor programming manual",
     "url": "https://www.st.com/resource/en/programming_manual/pm0253-stm32f7-series-and-stm32h7-series-cortexm7-processor-programming-manual-stmicroelectronics.pdf",
     "versions": [
       {
@@ -7055,6 +7083,13 @@
         "pdfBytes": 5361596,
         "pdfCreated": "2019-06-20T09:48:26Z",
         "pdfModified": "2019-06-20T09:54:30Z"
+      },
+      {
+        "version": "6.0",
+        "lastUpdate": "2026-05-29",
+        "pdfBytes": 2757322,
+        "pdfCreated": "2026-05-21T16:32:27Z",
+        "pdfModified": "2026-05-29T15:42:05+02:00"
       }
     ]
   },
@@ -7247,7 +7282,7 @@
     "versions": [
       {
         "version": "6.0",
-        "lastUpdate": "2022-08-17",
+        "lastUpdate": "2022-08-16",
         "pdfBytes": 1210461,
         "pdfCreated": "2022-08-17T14:41:53+01:00",
         "pdfModified": "2022-08-17T20:41:10+02:00"
@@ -7755,7 +7790,7 @@
     "versions": [
       {
         "version": "11.0",
-        "lastUpdate": "2025-03-23",
+        "lastUpdate": "2025-03-24",
         "pdfBytes": 1222108,
         "pdfCreated": "2025-03-18T14:47:58+01:00",
         "pdfModified": "2025-03-24T10:28:22+01:00"
@@ -7876,7 +7911,7 @@
     "versions": [
       {
         "version": "1.0",
-        "lastUpdate": "2024-11-18",
+        "lastUpdate": "2024-11-19",
         "pdfBytes": 114554,
         "pdfCreated": "2024-10-26T15:10:49+01:00",
         "pdfModified": "2024-11-19T16:11:13+01:00"
@@ -8023,7 +8058,7 @@
     "versions": [
       {
         "version": "6.0",
-        "lastUpdate": "2025-05-14",
+        "lastUpdate": "2025-05-15",
         "pdfBytes": 814409,
         "pdfCreated": "2025-05-12T10:42:11+01:00",
         "pdfModified": "2025-05-15T18:07:27+02:00"
@@ -8066,7 +8101,7 @@
     "versions": [
       {
         "version": "8.0",
-        "lastUpdate": "2026-03-12",
+        "lastUpdate": "2026-03-13",
         "pdfBytes": 11499369,
         "pdfCreated": "2026-03-12T12:09:30+01:00",
         "pdfModified": "2026-03-13T09:30:22+01:00"
@@ -9036,7 +9071,7 @@
     "versions": [
       {
         "version": "3.0",
-        "lastUpdate": "2021-12-14",
+        "lastUpdate": "2021-12-13",
         "pdfBytes": 66309457,
         "pdfCreated": "2021-12-13T17:21:46Z",
         "pdfModified": "2021-12-14T14:57:21+01:00"
@@ -9076,7 +9111,7 @@
     "versions": [
       {
         "version": "1.0",
-        "lastUpdate": "2025-09-30",
+        "lastUpdate": "2025-09-29",
         "pdfBytes": 121674,
         "pdfCreated": "2025-09-26T08:57:14+01:00",
         "pdfModified": "2025-09-30T09:32:08+02:00"
@@ -9154,7 +9189,7 @@
     "versions": [
       {
         "version": "3.0",
-        "lastUpdate": "2026-01-21",
+        "lastUpdate": "2026-01-20",
         "pdfBytes": 1493268,
         "pdfCreated": "2026-01-20T09:37:48+01:00",
         "pdfModified": "2026-01-21T12:30:34+01:00"
@@ -9179,7 +9214,7 @@
     "versions": [
       {
         "version": "3.0",
-        "lastUpdate": "2024-04-19",
+        "lastUpdate": "2024-04-18",
         "pdfBytes": 387849,
         "pdfCreated": "2024-04-18T00:33:43+01:00",
         "pdfModified": "2024-04-19T14:47:42+02:00"
@@ -9274,7 +9309,7 @@
     "versions": [
       {
         "version": "2.0",
-        "lastUpdate": "2026-04-09",
+        "lastUpdate": "2026-04-08",
         "pdfBytes": 1245337,
         "pdfCreated": "2026-04-07T14:13:08+01:00",
         "pdfModified": "2026-04-07T14:13:08+01:00"
@@ -9297,7 +9332,7 @@
     "versions": [
       {
         "version": "7.0",
-        "lastUpdate": "2025-07-08",
+        "lastUpdate": "2025-07-07",
         "pdfBytes": 1947955,
         "pdfCreated": "2025-07-07T17:07:22Z",
         "pdfModified": "2025-07-08T17:17:02+02:00"
@@ -9317,7 +9352,7 @@
     "versions": [
       {
         "version": "9.0",
-        "lastUpdate": "2024-06-17",
+        "lastUpdate": "2024-06-16",
         "pdfBytes": 2041138,
         "pdfCreated": "2024-06-17T10:30:57+01:00",
         "pdfModified": "2024-06-17T16:32:00+02:00"
@@ -9368,7 +9403,7 @@
     "versions": [
       {
         "version": "6.0",
-        "lastUpdate": "2026-01-21",
+        "lastUpdate": "2026-01-20",
         "pdfBytes": 650859,
         "pdfCreated": "2026-01-19T08:36:32+01:00",
         "pdfModified": "2026-01-21T12:30:36+01:00"
@@ -10011,7 +10046,7 @@
     "versions": [
       {
         "version": "13.0",
-        "lastUpdate": "2026-04-16",
+        "lastUpdate": "2026-04-15",
         "pdfBytes": 60097075,
         "pdfCreated": "2026-04-03T12:43:12Z",
         "pdfModified": "2026-04-16T11:27:31+02:00"
@@ -10030,7 +10065,7 @@
     "versions": [
       {
         "version": "1.0",
-        "lastUpdate": "2025-07-13",
+        "lastUpdate": "2025-07-12",
         "pdfBytes": 123837,
         "pdfCreated": "2025-07-04T15:26:28+01:00",
         "pdfModified": "2025-07-14T17:15:15+02:00"
@@ -10067,7 +10102,7 @@
     "versions": [
       {
         "version": "6.0",
-        "lastUpdate": "2022-03-04",
+        "lastUpdate": "2022-03-03",
         "pdfBytes": 801785,
         "pdfCreated": "2022-03-03T15:04:15+01:00",
         "pdfModified": "2022-03-04T10:10:12+01:00"
@@ -10086,7 +10121,7 @@
     "versions": [
       {
         "version": "12.0",
-        "lastUpdate": "2025-07-03",
+        "lastUpdate": "2025-07-02",
         "pdfBytes": 854622,
         "pdfCreated": "2022-04-21T10:48:48+01:00",
         "pdfModified": "2025-07-03T17:47:55+02:00"
@@ -10105,7 +10140,7 @@
     "versions": [
       {
         "version": "1.0",
-        "lastUpdate": "2022-05-27",
+        "lastUpdate": "2022-05-26",
         "pdfBytes": 2445221,
         "pdfCreated": "2022-05-27T09:18:57+01:00",
         "pdfModified": "2022-05-27T14:00:54+02:00"
@@ -10258,6 +10293,13 @@
         "pdfBytes": 255120,
         "pdfCreated": "2025-10-27T09:33:40+01:00",
         "pdfModified": "2025-11-03T16:40:15+01:00"
+      },
+      {
+        "version": "4.0",
+        "lastUpdate": "2026-05-06",
+        "pdfBytes": 265347,
+        "pdfCreated": "2026-05-06T10:40:05+01:00",
+        "pdfModified": "2026-05-06T10:40:05+01:00"
       }
     ]
   },
@@ -10296,6 +10338,13 @@
         "pdfBytes": 2297602,
         "pdfCreated": "2026-01-30T15:46:52+01:00",
         "pdfModified": "2026-02-02T15:53:35+01:00"
+      },
+      {
+        "version": "10.0",
+        "lastUpdate": "2026-05-26",
+        "pdfBytes": 2339498,
+        "pdfCreated": "2026-05-22T09:07:41+01:00",
+        "pdfModified": "2026-05-26T17:31:09+02:00"
       }
     ]
   },
@@ -10332,7 +10381,7 @@
     "versions": [
       {
         "version": "1.0",
-        "lastUpdate": "2025-06-27",
+        "lastUpdate": "2025-06-26",
         "pdfBytes": 634639,
         "pdfCreated": "2025-06-27T14:50:31+01:00",
         "pdfModified": "2025-06-28T00:30:02+02:00"
@@ -10372,7 +10421,7 @@
     "versions": [
       {
         "version": "1.0",
-        "lastUpdate": "2025-04-15",
+        "lastUpdate": "2025-04-14",
         "pdfBytes": 2765841,
         "pdfCreated": "2025-04-08T14:08:12+01:00",
         "pdfModified": "2025-04-15T09:38:15+02:00"
@@ -10557,8 +10606,8 @@
       "STM32N6X7"
     ],
     "type": "Reference Manual",
-    "title": "STM32N647/657xx Arm®-based 32-bit MCUs",
-    "url": "https://www.st.com/resource/en/reference_manual/rm0486-stm32n647657xx-armbased-32bit-mcus-stmicroelectronics.pdf",
+    "title": "STM32N6x5/x7xx Arm®-based 32-bit MCUs",
+    "url": "https://www.st.com/resource/en/reference_manual/rm0486-stm32n6x5x7xx-armbased-32bit-mcus-stmicroelectronics.pdf",
     "versions": [
       {
         "version": "3.0",
@@ -10566,6 +10615,13 @@
         "pdfBytes": 98521607,
         "pdfCreated": "2025-12-15T14:04:41Z",
         "pdfModified": "2025-12-18T11:55:45+01:00"
+      },
+      {
+        "version": "4.0",
+        "lastUpdate": "2026-05-31",
+        "pdfBytes": 98534630,
+        "pdfCreated": "2026-05-26T17:20:37Z",
+        "pdfModified": "2026-06-01T11:55:32+02:00"
       }
     ]
   },
@@ -10623,6 +10679,13 @@
         "pdfBytes": 1512989,
         "pdfCreated": "2025-11-14T18:38:52+01:00",
         "pdfModified": "2025-11-17T11:05:39+01:00"
+      },
+      {
+        "version": "4.0",
+        "lastUpdate": "2026-05-28",
+        "pdfBytes": 1626296,
+        "pdfCreated": "2026-05-26T22:37:46+01:00",
+        "pdfModified": "2026-05-29T15:28:20+02:00"
       }
     ]
   },
@@ -11253,7 +11316,7 @@
     "versions": [
       {
         "version": "4.0",
-        "lastUpdate": "2024-08-12",
+        "lastUpdate": "2024-08-11",
         "pdfBytes": 1878923,
         "pdfCreated": "2024-06-25T15:03:21+01:00",
         "pdfModified": "2024-08-12T13:01:42+02:00"
@@ -11405,6 +11468,13 @@
         "pdfBytes": 7036679,
         "pdfCreated": "2026-02-19T15:05:55+01:00",
         "pdfModified": "2026-02-27T09:14:58+01:00"
+      },
+      {
+        "version": "3.0",
+        "lastUpdate": "2026-05-13",
+        "pdfBytes": 7203492,
+        "pdfCreated": "2026-05-13T09:22:35+01:00",
+        "pdfModified": "2026-05-14T00:07:06+02:00"
       }
     ]
   },
@@ -12062,7 +12132,7 @@
     "versions": [
       {
         "version": "3.0",
-        "lastUpdate": "2015-02-10",
+        "lastUpdate": "2015-02-09",
         "pdfBytes": 1284728,
         "pdfCreated": "2015-02-06T10:37:25Z",
         "pdfModified": "2015-02-06T10:46:51+01:00"
@@ -12869,7 +12939,7 @@
     "versions": [
       {
         "version": "8.0",
-        "lastUpdate": "2022-12-09",
+        "lastUpdate": "2022-12-08",
         "pdfBytes": 628109,
         "pdfCreated": "2022-12-09T11:46:21Z",
         "pdfModified": "2022-12-09T15:39:31+01:00"
@@ -12972,7 +13042,7 @@
     "versions": [
       {
         "version": "2.0",
-        "lastUpdate": "2017-07-17",
+        "lastUpdate": "2017-07-16",
         "pdfBytes": 369937,
         "pdfCreated": "2017-04-20T11:49:01Z",
         "pdfModified": "2017-07-17T18:16:59+02:00"
@@ -12994,7 +13064,7 @@
     "versions": [
       {
         "version": "1.0",
-        "lastUpdate": "2012-10-18",
+        "lastUpdate": "2012-10-17",
         "pdfBytes": 990272,
         "pdfCreated": "2011-10-21T14:49:11Z",
         "pdfModified": "2012-10-16T11:27:14Z"
@@ -13016,7 +13086,7 @@
     "versions": [
       {
         "version": "5.0",
-        "lastUpdate": "2011-06-21",
+        "lastUpdate": "2011-06-20",
         "pdfBytes": 4505854,
         "pdfCreated": "2009-10-30T11:44:57Z",
         "pdfModified": "2011-06-21T09:36:44Z"
@@ -13111,7 +13181,7 @@
     "versions": [
       {
         "version": "2.0",
-        "lastUpdate": "2012-08-31",
+        "lastUpdate": "2012-08-30",
         "pdfBytes": 302996,
         "pdfCreated": "2012-08-27T08:49:24Z",
         "pdfModified": "2024-08-22T16:46:48+02:00"
@@ -13151,7 +13221,7 @@
     "versions": [
       {
         "version": "21.0",
-        "lastUpdate": "2021-02-23",
+        "lastUpdate": "2021-02-22",
         "pdfBytes": 13119424,
         "pdfCreated": "2021-02-22T14:13:37Z",
         "pdfModified": "2021-02-23T09:34:27+01:00"
@@ -17375,6 +17445,13 @@
         "pdfBytes": 22397912,
         "pdfCreated": "2024-01-08T11:00:40Z",
         "pdfModified": "2024-01-10T15:06:27+01:00"
+      },
+      {
+        "version": "11.0",
+        "lastUpdate": "2026-05-29",
+        "pdfBytes": 22295742,
+        "pdfCreated": "2026-04-30T14:32:02Z",
+        "pdfModified": "2026-05-29T15:35:11+02:00"
       }
     ]
   },
@@ -18829,6 +18906,13 @@
         "pdfBytes": 1664988,
         "pdfCreated": "2026-02-23T10:49:11+01:00",
         "pdfModified": "2026-02-24T18:22:23+01:00"
+      },
+      {
+        "version": "3.0",
+        "lastUpdate": "2026-06-03",
+        "pdfBytes": 2212048,
+        "pdfCreated": "2026-06-02T15:36:06+01:00",
+        "pdfModified": "2026-06-03T10:33:42+02:00"
       }
     ]
   },
@@ -19433,6 +19517,13 @@
         "pdfBytes": 4274687,
         "pdfCreated": "2025-11-03T09:43:12Z",
         "pdfModified": "2025-11-27T14:37:46+01:00"
+      },
+      {
+        "version": "5.0",
+        "lastUpdate": "2026-05-29",
+        "pdfBytes": 4310781,
+        "pdfCreated": "2026-05-28T13:17:39Z",
+        "pdfModified": "2026-05-29T15:28:14+02:00"
       }
     ]
   },
@@ -19475,7 +19566,7 @@
     "versions": [
       {
         "version": "16.0",
-        "lastUpdate": "2024-07-24",
+        "lastUpdate": "2024-07-25",
         "pdfBytes": 1786249,
         "pdfCreated": "2024-07-24T15:33:15Z",
         "pdfModified": "2024-07-25T14:22:35+02:00"
@@ -20054,7 +20145,7 @@
     "versions": [
       {
         "version": "1.0",
-        "lastUpdate": "2025-01-05",
+        "lastUpdate": "2025-01-06",
         "pdfBytes": 128889,
         "pdfCreated": "2024-12-17T17:35:05+01:00",
         "pdfModified": "2025-01-06T23:17:50+01:00"
@@ -20086,6 +20177,13 @@
       {
         "version": "10.0",
         "lastUpdate": "2024-04-03"
+      },
+      {
+        "version": "11.0",
+        "lastUpdate": "2026-05-05",
+        "pdfBytes": 5988221,
+        "pdfCreated": "2026-05-05T09:04:22Z",
+        "pdfModified": "2026-05-05T12:06:17+02:00"
       }
     ]
   },
@@ -20247,7 +20345,7 @@
     "versions": [
       {
         "version": "2.0",
-        "lastUpdate": "2024-05-14",
+        "lastUpdate": "2024-05-15",
         "pdfBytes": 3204486,
         "pdfCreated": "2024-05-15T11:41:47+01:00",
         "pdfModified": "2024-05-15T13:56:34+02:00"
@@ -20408,6 +20506,13 @@
         "pdfBytes": 1372370,
         "pdfCreated": "2025-11-05T17:36:27+01:00",
         "pdfModified": "2025-11-06T18:32:19+01:00"
+      },
+      {
+        "version": "10.0",
+        "lastUpdate": "2026-05-06",
+        "pdfBytes": 1376435,
+        "pdfCreated": "2026-05-04T17:42:07+01:00",
+        "pdfModified": "2026-05-06T10:21:30+02:00"
       }
     ]
   },
@@ -20988,6 +21093,13 @@
         "pdfBytes": 2572958,
         "pdfCreated": "2026-02-23T14:20:02Z",
         "pdfModified": "2026-03-13T13:36:43+01:00"
+      },
+      {
+        "version": "3.0",
+        "lastUpdate": "2026-05-10",
+        "pdfBytes": 2610910,
+        "pdfCreated": "2026-05-07T11:36:45Z",
+        "pdfModified": "2026-05-11T23:59:22+02:00"
       }
     ]
   },
@@ -21148,6 +21260,13 @@
         "pdfBytes": 517003,
         "pdfCreated": "2026-02-20T11:40:20+01:00",
         "pdfModified": "2026-02-23T23:53:19+01:00"
+      },
+      {
+        "version": "4.0",
+        "lastUpdate": "2026-05-20",
+        "pdfBytes": 611333,
+        "pdfCreated": "2026-05-19T11:15:27+01:00",
+        "pdfModified": "2026-05-21T14:14:24+02:00"
       }
     ]
   },
@@ -21173,7 +21292,8 @@
     "id": "AN5948",
     "subfamilyIds": [
       "STM32WBA5X",
-      "STM32WBA6X"
+      "STM32WBA6X",
+      "STM32WBA2X"
     ],
     "type": "Application Note",
     "title": "How to develop RF hardware using STM32WBA MCUs",
@@ -21185,6 +21305,13 @@
         "pdfBytes": 2708481,
         "pdfCreated": "2025-07-30T15:56:09+01:00",
         "pdfModified": "2025-07-31T16:05:42+02:00"
+      },
+      {
+        "version": "4.0",
+        "lastUpdate": "2026-05-10",
+        "pdfBytes": 2781077,
+        "pdfCreated": "2026-05-05T16:18:38+01:00",
+        "pdfModified": "2026-05-12T00:30:34+02:00"
       }
     ]
   },
@@ -21203,6 +21330,13 @@
         "pdfBytes": 2646593,
         "pdfCreated": "2026-04-01T11:10:22Z",
         "pdfModified": "2026-04-02T17:11:17+02:00"
+      },
+      {
+        "version": "10.0",
+        "lastUpdate": "2026-05-06",
+        "pdfBytes": 2494436,
+        "pdfCreated": "2026-05-06T09:56:03Z",
+        "pdfModified": "2026-05-06T14:13:51+02:00"
       }
     ]
   },
@@ -21489,7 +21623,7 @@
     "versions": [
       {
         "version": "2.0",
-        "lastUpdate": "2025-02-04",
+        "lastUpdate": "2025-02-05",
         "pdfBytes": 2929423,
         "pdfCreated": "2025-02-04T16:35:30+01:00",
         "pdfModified": "2025-02-05T16:22:54+01:00"
@@ -21581,7 +21715,7 @@
     "versions": [
       {
         "version": "4.0",
-        "lastUpdate": "2026-04-01",
+        "lastUpdate": "2026-04-02",
         "pdfBytes": 1717896,
         "pdfCreated": "2026-04-02T15:54:03+01:00",
         "pdfModified": "2026-04-02T17:03:59+02:00"
@@ -21691,7 +21825,7 @@
     "versions": [
       {
         "version": "3.0",
-        "lastUpdate": "2022-12-11",
+        "lastUpdate": "2022-12-12",
         "pdfBytes": 6973831,
         "pdfCreated": "2022-12-12T10:48:39+01:00",
         "pdfModified": "2022-12-12T14:08:45+01:00"
@@ -21731,6 +21865,13 @@
         "pdfBytes": 12678681,
         "pdfCreated": "2025-06-30T13:48:56Z",
         "pdfModified": "2025-06-30T13:48:56Z"
+      },
+      {
+        "version": "6.0",
+        "lastUpdate": "2026-05-29",
+        "pdfBytes": 13008682,
+        "pdfCreated": "2026-05-28T09:21:29Z",
+        "pdfModified": "2026-05-29T14:39:16+02:00"
       }
     ]
   },
@@ -21821,6 +21962,13 @@
         "pdfBytes": 11488344,
         "pdfCreated": "2025-07-09T15:58:51Z",
         "pdfModified": "2025-07-15T08:48:39+02:00"
+      },
+      {
+        "version": "2.0",
+        "lastUpdate": "2026-05-27",
+        "pdfBytes": 13275094,
+        "pdfCreated": "2026-05-27T10:48:22Z",
+        "pdfModified": "2026-05-27T10:48:22Z"
       }
     ]
   },
@@ -21837,7 +21985,7 @@
     "versions": [
       {
         "version": "4.0",
-        "lastUpdate": "2022-12-05",
+        "lastUpdate": "2022-12-06",
         "pdfBytes": 729625,
         "pdfCreated": "2022-11-30T09:38:44+01:00",
         "pdfModified": "2022-12-06T19:45:36+01:00"
@@ -22072,6 +22220,13 @@
       {
         "version": "10.0",
         "lastUpdate": "2024-12-02",
+        "pdfBytes": 25383745,
+        "pdfCreated": "2026-04-22T11:33:03Z",
+        "pdfModified": "2026-04-27T09:09:06+02:00"
+      },
+      {
+        "version": "11.0",
+        "lastUpdate": "2026-04-27",
         "pdfBytes": 25383745,
         "pdfCreated": "2026-04-22T11:33:03Z",
         "pdfModified": "2026-04-27T09:09:06+02:00"
@@ -23364,6 +23519,13 @@
         "pdfBytes": 2022025,
         "pdfCreated": "2025-09-01T14:56:37+01:00",
         "pdfModified": "2025-09-02T16:47:32+02:00"
+      },
+      {
+        "version": "6.0",
+        "lastUpdate": "2026-05-29",
+        "pdfBytes": 2252266,
+        "pdfCreated": "2026-05-27T11:22:59+01:00",
+        "pdfModified": "2026-05-29T15:28:16+02:00"
       }
     ]
   },
@@ -23424,8 +23586,8 @@
       "STM32MP257"
     ],
     "type": "Application Note",
-    "title": "How to use STPMIC25 for a wall adapter powered application on STM32MP25 MPUs",
-    "url": "https://www.st.com/resource/en/application_note/an5727-how-to-use-stpmic25-for-a-wall-adapter-powered-application-on-stm32mp25-mpus-stmicroelectronics.pdf",
+    "title": "How to use STPMIC25 to develop a wall adapter powered application on STM32MP25 MPUs",
+    "url": "https://www.st.com/resource/en/application_note/an5727-how-to-use-stpmic25-to-develop-a-wall-adapter-powered-application-on-stm32mp25-mpus-stmicroelectronics.pdf",
     "versions": [
       {
         "version": "2.0",
@@ -23433,6 +23595,13 @@
         "pdfBytes": 3490376,
         "pdfCreated": "2026-01-06T10:16:29+01:00",
         "pdfModified": "2026-01-14T23:56:06+01:00"
+      },
+      {
+        "version": "3.0",
+        "lastUpdate": "2026-05-04",
+        "pdfBytes": 3731237,
+        "pdfCreated": "2026-04-30T09:12:25+01:00",
+        "pdfModified": "2026-05-04T11:42:30+02:00"
       }
     ]
   },
@@ -23537,7 +23706,7 @@
     "versions": [
       {
         "version": "6.0",
-        "lastUpdate": "2018-04-05",
+        "lastUpdate": "2018-04-04",
         "pdfBytes": 2471083,
         "pdfCreated": "2018-04-04T14:39:45Z",
         "pdfModified": "2018-04-10T07:51:22+02:00"
@@ -23558,7 +23727,7 @@
     "versions": [
       {
         "version": "2.0",
-        "lastUpdate": "2009-07-13",
+        "lastUpdate": "2009-07-12",
         "pdfBytes": 187404,
         "pdfCreated": "2007-12-07T15:47:00Z",
         "pdfModified": "2009-10-20T10:19:31+02:00"
@@ -23626,7 +23795,7 @@
     "versions": [
       {
         "version": "3.0",
-        "lastUpdate": "2011-06-09",
+        "lastUpdate": "2011-06-08",
         "pdfBytes": 195404,
         "pdfCreated": "2011-06-06T09:22:52Z",
         "pdfModified": "2023-11-02T19:15:44+01:00"
@@ -23657,7 +23826,7 @@
     "versions": [
       {
         "version": "3.0",
-        "lastUpdate": "2016-05-10",
+        "lastUpdate": "2016-05-09",
         "pdfBytes": 405960,
         "pdfCreated": "2016-05-10T10:34:32Z",
         "pdfModified": "2017-05-15T13:34:58+02:00"
@@ -23681,7 +23850,7 @@
     "versions": [
       {
         "version": "2.0",
-        "lastUpdate": "2011-09-01",
+        "lastUpdate": "2023-02-12",
         "pdfBytes": 199402,
         "pdfCreated": "2011-08-31T14:40:02Z",
         "pdfModified": "2023-02-13T16:54:29+01:00"
@@ -23705,7 +23874,7 @@
     "versions": [
       {
         "version": "3.0",
-        "lastUpdate": "2011-08-30",
+        "lastUpdate": "2026-05-28",
         "pdfBytes": 275246,
         "pdfCreated": "2011-08-30T11:01:45Z",
         "pdfModified": "2023-02-13T16:59:36+01:00"
@@ -23723,7 +23892,7 @@
     "versions": [
       {
         "version": "5.0",
-        "lastUpdate": "2014-12-22",
+        "lastUpdate": "2014-12-23",
         "pdfBytes": 755444,
         "pdfCreated": "2014-12-18T17:56:08Z",
         "pdfModified": "2014-12-18T18:12:57+01:00"
@@ -23744,7 +23913,7 @@
     "versions": [
       {
         "version": "1.0",
-        "lastUpdate": "2010-10-22",
+        "lastUpdate": "2023-02-12",
         "pdfBytes": 151921,
         "pdfCreated": "2010-10-21T10:00:37Z",
         "pdfModified": "2023-02-13T16:51:27+01:00"
@@ -23788,7 +23957,7 @@
     "versions": [
       {
         "version": "2.0",
-        "lastUpdate": "2015-09-14",
+        "lastUpdate": "2015-09-13",
         "pdfBytes": 253855,
         "pdfCreated": "2015-09-11T10:34:13Z",
         "pdfModified": "2015-09-11T10:41:07Z"
@@ -23812,7 +23981,7 @@
     "versions": [
       {
         "version": "1.0",
-        "lastUpdate": "2010-07-15",
+        "lastUpdate": "2023-02-12",
         "pdfBytes": 291978,
         "pdfCreated": "2010-07-06T08:51:23Z",
         "pdfModified": "2023-02-13T16:54:27+01:00"
@@ -23842,7 +24011,7 @@
     "versions": [
       {
         "version": "5.0",
-        "lastUpdate": "2012-11-13",
+        "lastUpdate": "2012-11-12",
         "pdfBytes": 266760,
         "pdfCreated": "2012-11-06T18:25:57Z",
         "pdfModified": "2024-08-22T16:46:48+02:00"
@@ -23872,7 +24041,7 @@
     "versions": [
       {
         "version": "2.0",
-        "lastUpdate": "2011-05-17",
+        "lastUpdate": "2011-05-16",
         "pdfBytes": 325839,
         "pdfCreated": "2005-10-20T10:47:30Z",
         "pdfModified": "2024-03-18T14:29:21+01:00"
@@ -23902,7 +24071,7 @@
     "versions": [
       {
         "version": "3.0",
-        "lastUpdate": "2011-09-20",
+        "lastUpdate": "2011-09-19",
         "pdfBytes": 1537327,
         "pdfCreated": "2011-09-20T14:29:39Z",
         "pdfModified": "2024-03-18T14:34:31+01:00"
@@ -23944,7 +24113,7 @@
     "versions": [
       {
         "version": "14.0",
-        "lastUpdate": "2017-10-05",
+        "lastUpdate": "2017-10-04",
         "pdfBytes": 9939004,
         "pdfCreated": "2017-10-04T13:48:37Z",
         "pdfModified": "2017-10-05T16:21:20+02:00"
@@ -23965,7 +24134,7 @@
     "versions": [
       {
         "version": "1.0",
-        "lastUpdate": "2010-12-07",
+        "lastUpdate": "2023-02-12",
         "pdfBytes": 305978,
         "pdfCreated": "2010-12-06T10:52:33Z",
         "pdfModified": "2023-02-13T17:01:18+01:00"
@@ -23986,7 +24155,7 @@
     "versions": [
       {
         "version": "1.0",
-        "lastUpdate": "2009-03-16",
+        "lastUpdate": "2023-04-04",
         "pdfBytes": 537921,
         "pdfCreated": "2009-03-09T11:07:19Z",
         "pdfModified": "2023-04-05T18:08:06+02:00"
@@ -24581,7 +24750,7 @@
     "versions": [
       {
         "version": "3.0",
-        "lastUpdate": "2013-08-02",
+        "lastUpdate": "2013-08-01",
         "pdfBytes": 378852,
         "pdfCreated": "2013-08-01T11:18:28Z",
         "pdfModified": "2019-08-13T14:46:19+02:00"
@@ -24622,7 +24791,7 @@
     "versions": [
       {
         "version": "10.0",
-        "lastUpdate": "2023-03-16",
+        "lastUpdate": "2023-03-15",
         "pdfBytes": 434695,
         "pdfCreated": "2023-03-07T09:33:17Z",
         "pdfModified": "2023-03-16T11:16:14+01:00"
@@ -24644,7 +24813,7 @@
     "versions": [
       {
         "version": "4.0",
-        "lastUpdate": "2012-11-23",
+        "lastUpdate": "2012-11-22",
         "pdfBytes": 426264,
         "pdfCreated": "2012-11-21T13:57:25Z",
         "pdfModified": "2024-11-04T16:36:07+01:00"
@@ -24705,7 +24874,7 @@
     "versions": [
       {
         "version": "9.0",
-        "lastUpdate": "2012-12-13",
+        "lastUpdate": "2012-12-12",
         "pdfBytes": 245301,
         "pdfCreated": "2012-12-10T11:37:24Z",
         "pdfModified": "2024-11-04T16:35:19+01:00"
@@ -24727,7 +24896,7 @@
     "versions": [
       {
         "version": "6.0",
-        "lastUpdate": "2015-01-22",
+        "lastUpdate": "2015-01-21",
         "pdfBytes": 440188,
         "pdfCreated": "2015-01-20T15:31:21Z",
         "pdfModified": "2015-01-20T15:31:21Z"
@@ -24750,7 +24919,7 @@
     "versions": [
       {
         "version": "5.0",
-        "lastUpdate": "2012-11-23",
+        "lastUpdate": "2023-02-12",
         "pdfBytes": 616776,
         "pdfCreated": "2012-11-21T13:38:29Z",
         "pdfModified": "2023-02-13T16:54:29+01:00"
@@ -24773,7 +24942,7 @@
     "versions": [
       {
         "version": "3.0",
-        "lastUpdate": "2012-11-16",
+        "lastUpdate": "2012-11-15",
         "pdfBytes": 709666,
         "pdfCreated": "2012-11-15T11:07:45Z",
         "pdfModified": "2024-08-22T16:46:55+02:00"
@@ -24795,7 +24964,7 @@
     "versions": [
       {
         "version": "15.0",
-        "lastUpdate": "2019-07-22",
+        "lastUpdate": "2019-07-21",
         "pdfBytes": 11583251,
         "pdfCreated": "2019-07-11T10:01:51Z",
         "pdfModified": "2019-07-22T11:54:22+02:00"
@@ -24818,7 +24987,7 @@
     "versions": [
       {
         "version": "5.0",
-        "lastUpdate": "2013-07-30",
+        "lastUpdate": "2023-02-12",
         "pdfBytes": 1553573,
         "pdfCreated": "2013-07-26T09:11:17Z",
         "pdfModified": "2023-02-13T16:54:33+01:00"
@@ -24838,7 +25007,7 @@
     "versions": [
       {
         "version": "3.0",
-        "lastUpdate": "2012-11-13",
+        "lastUpdate": "2012-11-12",
         "pdfBytes": 731303,
         "pdfCreated": "2012-11-08T10:24:30Z",
         "pdfModified": "2024-08-22T16:46:54+02:00"
@@ -24859,7 +25028,7 @@
     "versions": [
       {
         "version": "3.0",
-        "lastUpdate": "2011-09-13",
+        "lastUpdate": "2011-09-12",
         "pdfBytes": 823781,
         "pdfCreated": "2011-09-08T14:43:50Z",
         "pdfModified": "2024-03-18T14:34:35+01:00"
@@ -24972,7 +25141,7 @@
     "versions": [
       {
         "version": "4.0",
-        "lastUpdate": "2016-08-25",
+        "lastUpdate": "2016-08-24",
         "pdfBytes": 620631,
         "pdfCreated": "2016-08-24T16:08:54Z",
         "pdfModified": "2016-08-24T16:10:27+02:00"
@@ -25310,84 +25479,84 @@
       "STM32F2X5",
       "STM32F2X7",
       "STM32F401",
+      "STM32F405-415",
+      "STM32F407-417",
       "STM32F413-423",
       "STM32F427-437",
+      "STM32F429-439",
       "STM32F469-479",
       "STM32F7X0-VALUE-LINE",
       "STM32F7X2",
       "STM32F7X3",
       "STM32F7X5",
+      "STM32F7X6",
       "STM32F7X7",
       "STM32F7X9",
       "STM32H523-533",
+      "STM32H563-573",
       "STM32H5E4-5F4",
+      "STM32H5E5-5F5",
       "STM32H723-733",
+      "STM32H725-735",
       "STM32H743-753",
       "STM32H745-755",
       "STM32H747-757",
+      "STM32H7A3-7B3",
       "STM32H7R3-7S3",
+      "STM32H7R7-7S7",
       "STM32C0",
+      "STM32C53X-542",
+      "STM32C55X-562",
+      "STM32C59X-5A3",
+      "STM32F0X0-VALUE-LINE",
       "STM32F0X1",
       "STM32F0X2",
+      "STM32F0X8",
       "STM32F100-VALUE-LINE",
+      "STM32F101",
       "STM32F102",
+      "STM32F103",
       "STM32F302",
       "STM32F303",
       "STM32F373",
+      "STM32F3X8",
       "STM32G0X0-VALUE-LINE",
+      "STM32G0X1",
+      "STM32G4X1",
       "STM32G4X3",
+      "STM32G4X4",
       "STM32L0X0-VALUE-LINE",
+      "STM32L0X1",
       "STM32L0X2",
       "STM32L0X3",
       "STM32L100-VALUE-LINE",
+      "STM32L151-152",
+      "STM32L162",
       "STM32L4X1",
       "STM32L4X2",
       "STM32L4X3",
+      "STM32L4X6",
       "STM32L4P5-Q5",
       "STM32L4R5-S5",
       "STM32L4R7-S7",
       "STM32L4R9-S9",
       "STM32L5X2",
+      "STM32U0",
       "STM32U375-385",
+      "STM32U3B5-3C5",
       "STM32U535-545",
       "STM32U575-585",
+      "STM32U595-5A5",
+      "STM32U599-5A9",
       "STM32U5F7-5G7",
       "STM32U5F9-5G9",
       "STM32WBX0-VALUE-LINE",
-      "STM32WL3X",
-      "STM32WL5X-EX",
-      "STM32F405-415",
-      "STM32F429-439",
-      "STM32F7X6",
-      "STM32H7R7-7S7",
-      "STM32F0X0-VALUE-LINE",
-      "STM32F3X8",
-      "STM32G0X1",
-      "STM32G4X1",
-      "STM32G4X4",
-      "STM32L162",
-      "STM32L4X6",
-      "STM32U0",
-      "STM32U3B5-3C5",
-      "STM32U599-5A9",
-      "STM32F407-417",
-      "STM32H5E5-5F5",
-      "STM32L0X1",
-      "STM32H563-573",
-      "STM32H725-735",
-      "STM32H7A3-7B3",
-      "STM32C53X-542",
-      "STM32C55X-562",
-      "STM32C59X-5A3",
-      "STM32F0X8",
-      "STM32F101",
-      "STM32F103",
-      "STM32L151-152",
-      "STM32U595-5A5",
       "STM32WBX5",
       "STM32WBXM-MODULES",
       "STM32WB0",
-      "STM32WBA5X"
+      "STM32WBA5X",
+      "STM32WL3X",
+      "STM32WL5X-EX"
     ],
     "type": "Application Note",
     "title": "AN2834 How to optimize the ADC accuracy in the STM32 MCUs",
@@ -25508,7 +25677,7 @@
     "versions": [
       {
         "version": "3.0",
-        "lastUpdate": "2023-02-12",
+        "lastUpdate": "2026-05-28",
         "pdfBytes": 3299724,
         "pdfCreated": "2013-10-17T08:04:18Z",
         "pdfModified": "2023-02-13T16:59:34+01:00"
@@ -25589,23 +25758,6 @@
     ]
   },
   {
-    "id": "PM1A",
-    "subfamilyIds": [
-      "STM32F2X5"
-    ],
-    "type": "Material Declaration",
-    "title": "Active  Product is in volume production.",
-    "url": "https://www.st.com/resource/en/material_declaration/pm1a_411xxx3_signed.pdf",
-    "versions": [
-      {
-        "version": "10",
-        "pdfBytes": 444857,
-        "pdfCreated": "2021-11-15T15:16:57+08:00",
-        "pdfModified": "2021-11-15T15:16:57+08:00"
-      }
-    ]
-  },
-  {
     "id": "SA5B",
     "subfamilyIds": [
       "STM32F103",
@@ -25639,6 +25791,14 @@
       {
         "version": "10",
         "lastUpdate": ""
+      },
+      {
+        "version": "",
+        "lastUpdate": ""
+      },
+      {
+        "version": "10",
+        "lastUpdate": ""
       }
     ]
   },
@@ -25646,8 +25806,7 @@
     "id": "SA5W",
     "subfamilyIds": [
       "STM32F302",
-      "STM32L0X2",
-      "STM32L0X1"
+      "STM32L0X2"
     ],
     "type": "Material Declaration",
     "title": "Ecopack2",
@@ -25658,6 +25817,72 @@
         "pdfBytes": 843267,
         "pdfCreated": "2017-07-27T15:04:49+02:00",
         "pdfModified": "2017-07-27T15:04:49+02:00"
+      },
+      {
+        "version": "",
+        "lastUpdate": ""
+      },
+      {
+        "version": "10",
+        "lastUpdate": ""
+      }
+    ]
+  },
+  {
+    "id": "PM1A",
+    "subfamilyIds": [
+      "STM32F2X5"
+    ],
+    "type": "Material Declaration",
+    "title": "Active  Product is in volume production.",
+    "url": "https://www.st.com/resource/en/material_declaration/pm1a_411xxx3_signed.pdf",
+    "versions": [
+      {
+        "version": "10",
+        "lastUpdate": "",
+        "pdfBytes": 444857,
+        "pdfCreated": "2021-11-15T15:16:57+08:00",
+        "pdfModified": "2021-11-15T15:16:57+08:00"
+      }
+    ]
+  },
+  {
+    "id": "UM3575",
+    "subfamilyIds": [
+      "STM32C53X-542",
+      "STM32C55X-562",
+      "STM32C59X-5A3"
+    ],
+    "type": "User Manual",
+    "title": "STM32C5 series safety manual",
+    "url": "https://www.st.com/resource/en/user_manual/um3575-stm32c5-series-safety-manual-stmicroelectronics.pdf",
+    "versions": [
+      {
+        "version": "1.0",
+        "lastUpdate": "2026-05-18",
+        "pdfBytes": 5930984,
+        "pdfCreated": "2026-05-15T11:54:24+01:00",
+        "pdfModified": "2026-05-15T11:54:24+01:00"
+      }
+    ]
+  },
+  {
+    "id": "AN6457",
+    "subfamilyIds": [
+      "STM32C53X-542",
+      "STM32C55X-562",
+      "STM32C59X-5A3"
+    ],
+    "type": "Application Note",
+    "title": "How to use the LPDMA on STM32 MCUs",
+    "url": "https://www.st.com/resource/en/application_note/an6457-how-to-use-the-lpdma-on-stm32-mcus-stmicroelectronics.pdf",
+    "versions": [
+      {
+        "version": "1.0",
+        "lastUpdate": "2026-03-03",
+        "pdfBytes": 955699,
+        "pdfCreated": "2026-03-03T10:46:14+01:00",
+        "pdfModified": "2026-03-03T18:30:30+01:00"
       }
     ]
   },
@@ -25668,14 +25893,77 @@
     ],
     "type": "Material Declaration",
     "title": "Active  Product is in volume production.",
-    "url": "https://www.st.com/resource/en/material_declaration/sb5b_417xxxx_signed.pdf",
+    "url": "https://www.st.com/resource/en/material_declaration/sb5b_417xxxx.pdf",
     "versions": [
       {
         "version": "10",
         "lastUpdate": "",
-        "pdfBytes": 1784515,
-        "pdfCreated": "2020-02-05T10:29:01+08:00",
-        "pdfModified": "2020-02-05T10:29:01+08:00"
+        "pdfBytes": 395694,
+        "pdfCreated": "2026-03-16T00:05:09+01:00",
+        "pdfModified": "2026-03-16T00:05:41+01:00"
+      }
+    ]
+  },
+  {
+    "id": "AN6344",
+    "subfamilyIds": [
+      "STM32WL3X"
+    ],
+    "type": "Application Note",
+    "title": "Guidelines for wM-Bus on STM32WL3x MCUs",
+    "url": "https://www.st.com/resource/en/application_note/an6344-guidelines-for-wmbus-on-stm32wl3x-mcus-stmicroelectronics.pdf",
+    "versions": [
+      {
+        "version": "",
+        "lastUpdate": "2026-06-03"
+      },
+      {
+        "version": "1.1",
+        "lastUpdate": "2026-06-04",
+        "pdfBytes": 2164333,
+        "pdfCreated": "2026-05-26T13:43:35+01:00",
+        "pdfModified": "2026-06-04T16:14:07+02:00"
+      }
+    ]
+  },
+  {
+    "id": "AN6303",
+    "subfamilyIds": [
+      "STM32MP211",
+      "STM32MP213",
+      "STM32MP215"
+    ],
+    "type": "Application Note",
+    "title": "How to use STPMIC2L for a wall adapter powered application on STM32MP21x MPUs",
+    "url": "https://www.st.com/resource/en/application_note/an6303-how-to-use-stpmic2l-for-a-wall-adapter-powered-application-on-stm32mp21x-mpus-stmicroelectronics.pdf",
+    "versions": [
+      {
+        "version": "1.0",
+        "lastUpdate": "2026-05-06",
+        "pdfBytes": 3295849,
+        "pdfCreated": "2026-05-04T13:56:53+01:00",
+        "pdfModified": "2026-05-06T10:21:34+02:00"
+      }
+    ]
+  },
+  {
+    "id": "SB0070",
+    "subfamilyIds": [
+      "STM32MP251",
+      "STM32MP253",
+      "STM32MP255",
+      "STM32MP257"
+    ],
+    "type": "Security Bulletin",
+    "title": "RISAF limitation about PCIe region protection on STM32MP25xx",
+    "url": "https://www.st.com/resource/en/security_bulletin/sb0070-risaf-limitation-about-pcie-region-protection-on-stm32mp25xx-stmicroelectronics.pdf",
+    "versions": [
+      {
+        "version": "1.0",
+        "lastUpdate": "2026-05-21",
+        "pdfBytes": 107527,
+        "pdfCreated": "2026-05-20T06:50:33+01:00",
+        "pdfModified": "2026-05-21T09:50:37+02:00"
       }
     ]
   }
