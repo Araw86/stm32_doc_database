@@ -98,7 +98,7 @@
         "pdfCreated": "2025-11-21T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T05:49:53.894Z"
+    "scrapedAt": "2026-09-08T18:06:54.190Z"
   },
   {
     "id": "NUCLEO-C542RC",
@@ -199,7 +199,7 @@
         "pdfCreated": "2025-11-21T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T05:50:26.732Z"
+    "scrapedAt": "2026-09-08T18:07:25.977Z"
   },
   {
     "id": "NUCLEO-C5A3ZG",
@@ -300,7 +300,7 @@
         "pdfCreated": "2026-02-10T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T05:50:58.954Z"
+    "scrapedAt": "2026-09-08T18:07:57.581Z"
   },
   {
     "id": "NUCLEO-F207ZG",
@@ -357,7 +357,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T05:51:30.332Z"
+    "scrapedAt": "2026-09-08T18:08:29.086Z"
   },
   {
     "id": "NUCLEO-F401RE",
@@ -390,7 +390,7 @@
         "pdfCreated": "2022-08-17T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T05:52:01.748Z"
+    "scrapedAt": "2026-09-08T18:09:01.215Z"
   },
   {
     "id": "X-NUCLEO-6180XA1",
@@ -402,7 +402,7 @@
       "STM32L053R8"
     ],
     "schematics": [],
-    "scrapedAt": "2026-06-06T05:52:02.892Z"
+    "scrapedAt": "2026-09-08T18:09:32.806Z"
   },
   {
     "id": "NUCLEO-F410RB",
@@ -429,7 +429,7 @@
         "pdfCreated": "2022-08-17T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T05:52:34.381Z"
+    "scrapedAt": "2026-09-08T18:10:04.473Z"
   },
   {
     "id": "32F411EDISCOVERY",
@@ -456,7 +456,7 @@
         "pdfCreated": "2014-10-16T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T05:52:36.039Z"
+    "scrapedAt": "2026-09-08T18:10:36.181Z"
   },
   {
     "id": "NUCLEO-F411RE",
@@ -483,7 +483,7 @@
         "pdfCreated": "2022-08-17T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T05:53:07.366Z"
+    "scrapedAt": "2026-09-08T18:11:07.894Z"
   },
   {
     "id": "NUCLEO-F412ZG",
@@ -510,7 +510,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T05:53:38.675Z"
+    "scrapedAt": "2026-09-08T18:11:09.211Z"
   },
   {
     "id": "32F413HDISCOVERY",
@@ -556,7 +556,7 @@
         "pdfCreated": "2021-11-30T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T05:54:10.225Z"
+    "scrapedAt": "2026-09-08T18:11:41.133Z"
   },
   {
     "id": "NUCLEO-F413ZH",
@@ -590,7 +590,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T05:54:11.502Z"
+    "scrapedAt": "2026-09-08T18:12:12.737Z"
   },
   {
     "id": "NUCLEO-F446RE",
@@ -619,7 +619,7 @@
         "pdfCreated": "2022-08-17T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T05:54:43.075Z"
+    "scrapedAt": "2026-09-08T18:12:44.183Z"
   },
   {
     "id": "NUCLEO-F446ZE",
@@ -646,7 +646,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T05:55:14.435Z"
+    "scrapedAt": "2026-09-08T18:13:15.721Z"
   },
   {
     "id": "32F469IDISCOVERY",
@@ -707,7 +707,7 @@
         "pdfCreated": "2022-02-22T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T05:55:45.849Z"
+    "scrapedAt": "2026-09-08T18:13:47.288Z"
   },
   {
     "id": "STEVAL-BFA001V2B",
@@ -729,7 +729,7 @@
         "pdfCreated": "2020-04-27T17:11:26+02:00"
       }
     ],
-    "scrapedAt": "2026-06-06T05:56:17.256Z"
+    "scrapedAt": "2026-09-08T18:13:48.626Z"
   },
   {
     "id": "STEVAL-BFA001V1B",
@@ -751,7 +751,7 @@
         "pdfCreated": "2018-07-27T12:53:01+02:00"
       }
     ],
-    "scrapedAt": "2026-06-06T05:56:18.316Z"
+    "scrapedAt": "2026-09-08T18:13:49.904Z"
   },
   {
     "id": "P-NUCLEO-LRWAN3",
@@ -862,7 +862,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T05:56:49.661Z"
+    "scrapedAt": "2026-09-08T18:13:51.518Z"
   },
   {
     "id": "NUCLEO-F722ZE",
@@ -893,7 +893,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T05:57:21.128Z"
+    "scrapedAt": "2026-09-08T18:14:23.092Z"
   },
   {
     "id": "32F723EDISCOVERY",
@@ -933,7 +933,7 @@
         "pdfCreated": "2021-11-09T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T05:57:22.939Z"
+    "scrapedAt": "2026-09-08T18:14:54.576Z"
   },
   {
     "id": "NUCLEO-F767ZI",
@@ -967,7 +967,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T05:57:54.422Z"
+    "scrapedAt": "2026-09-08T18:15:26.162Z"
   },
   {
     "id": "32F769IDISCOVERY",
@@ -1010,7 +1010,7 @@
         "pdfCreated": "2016-03-11T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T05:58:26.065Z"
+    "scrapedAt": "2026-09-08T18:15:57.539Z"
   },
   {
     "id": "STM32F779I-EVAL",
@@ -1060,7 +1060,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T05:58:27.200Z"
+    "scrapedAt": "2026-09-08T18:16:31.850Z"
   },
   {
     "id": "NUCLEO-H503RB",
@@ -1152,7 +1152,7 @@
         "pdfCreated": "2025-01-15T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T05:58:58.638Z"
+    "scrapedAt": "2026-09-08T18:17:03.556Z"
   },
   {
     "id": "NUCLEO-H533RE",
@@ -1244,7 +1244,7 @@
         "pdfCreated": "2025-01-15T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T05:59:30.097Z"
+    "scrapedAt": "2026-09-08T18:17:35.294Z"
   },
   {
     "id": "NUCLEO-H563ZI",
@@ -1336,7 +1336,7 @@
         "pdfCreated": "2025-01-24T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:00:01.466Z"
+    "scrapedAt": "2026-09-08T18:17:36.740Z"
   },
   {
     "id": "NUCLEO-H5E5ZJ",
@@ -1428,7 +1428,7 @@
         "pdfCreated": "2025-10-03T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:00:02.549Z"
+    "scrapedAt": "2026-09-08T18:18:08.694Z"
   },
   {
     "id": "STM32H573I-DK",
@@ -1540,7 +1540,7 @@
         "pdfCreated": "2023-07-13T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:00:44.664Z"
+    "scrapedAt": "2026-09-08T18:18:40.253Z"
   },
   {
     "id": "STM32H5F5J-DK",
@@ -1642,7 +1642,7 @@
         "pdfCreated": "2025-03-14T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:01:16.073Z"
+    "scrapedAt": "2026-09-08T18:19:11.706Z"
   },
   {
     "id": "NUCLEO-H723ZG",
@@ -1669,7 +1669,7 @@
         "pdfCreated": "2020-02-03T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:01:47.454Z"
+    "scrapedAt": "2026-09-08T18:19:43.158Z"
   },
   {
     "id": "NUCLEO-H7S3L8",
@@ -1804,7 +1804,8 @@
       "STM32H7B3II",
       "STM32H7B3NI",
       "STM32H7B3VI",
-      "STM32H7B3ZI"
+      "STM32H7B3ZI",
+      "STM32H753BI"
     ],
     "schematics": [
       {
@@ -1818,7 +1819,7 @@
         "pdfCreated": "2023-09-07T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:02:18.863Z"
+    "scrapedAt": "2026-09-08T18:20:14.873Z"
   },
   {
     "id": "STM32H7S78-DK",
@@ -1953,7 +1954,8 @@
       "STM32H7B3II",
       "STM32H7B3NI",
       "STM32H7B3VI",
-      "STM32H7B3ZI"
+      "STM32H7B3ZI",
+      "STM32H753BI"
     ],
     "schematics": [
       {
@@ -1997,7 +1999,7 @@
         "pdfCreated": "2023-07-13T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:02:50.331Z"
+    "scrapedAt": "2026-09-08T18:20:46.410Z"
   },
   {
     "id": "STEVAL-SILPLC01",
@@ -2008,7 +2010,7 @@
       "STM32H723VG"
     ],
     "schematics": [],
-    "scrapedAt": "2026-06-06T06:03:21.426Z"
+    "scrapedAt": "2026-09-08T18:21:18.212Z"
   },
   {
     "id": "NUCLEO-H753ZI",
@@ -2047,7 +2049,7 @@
         "pdfCreated": "2019-04-04T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:03:52.855Z"
+    "scrapedAt": "2026-09-08T18:21:49.894Z"
   },
   {
     "id": "STM32H753I-EVAL",
@@ -2106,7 +2108,7 @@
         "pdfCreated": "2022-04-27T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:04:24.284Z"
+    "scrapedAt": "2026-09-08T18:22:21.419Z"
   },
   {
     "id": "STDES-50KWTTPVI",
@@ -2129,7 +2131,7 @@
         "pdfModified": "2026-03-09T15:27:52+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T06:04:55.740Z"
+    "scrapedAt": "2026-09-08T18:22:22.714Z"
   },
   {
     "id": "STEVAL-ISD01KCB",
@@ -2140,7 +2142,7 @@
       "STM32H743ZG"
     ],
     "schematics": [],
-    "scrapedAt": "2026-06-06T06:05:26.901Z"
+    "scrapedAt": "2026-09-08T18:22:54.021Z"
   },
   {
     "id": "STEVAL-SILKT01",
@@ -2164,7 +2166,7 @@
         "pdfModified": "2025-01-27T12:00:49+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T06:05:28.031Z"
+    "scrapedAt": "2026-09-08T18:22:55.320Z"
   },
   {
     "id": "STDES-8PH7TMG",
@@ -2187,7 +2189,7 @@
         "pdfModified": "2023-05-18T11:05:54+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T06:05:29.126Z"
+    "scrapedAt": "2026-09-08T18:23:27.155Z"
   },
   {
     "id": "STEVAL-VOICE-UI",
@@ -2210,7 +2212,7 @@
         "pdfModified": "2021-05-31T13:29:09+02:00"
       }
     ],
-    "scrapedAt": "2026-06-06T06:05:30.189Z"
+    "scrapedAt": "2026-09-08T18:23:58.606Z"
   },
   {
     "id": "NUCLEO-H755ZI-Q",
@@ -2243,7 +2245,7 @@
         "pdfCreated": "2019-10-03T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:06:01.677Z"
+    "scrapedAt": "2026-09-08T18:24:30.292Z"
   },
   {
     "id": "STM32H745I-DISCO",
@@ -2286,7 +2288,7 @@
         "pdfCreated": "2023-07-27T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:06:33.130Z"
+    "scrapedAt": "2026-09-08T18:25:01.740Z"
   },
   {
     "id": "STM32H747I-DISCO",
@@ -2341,7 +2343,7 @@
         "pdfCreated": "2024-04-15T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:07:04.614Z"
+    "scrapedAt": "2026-09-08T18:25:33.407Z"
   },
   {
     "id": "STM32H757I-EVAL",
@@ -2396,7 +2398,7 @@
         "pdfCreated": "2022-04-27T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:07:36.350Z"
+    "scrapedAt": "2026-09-08T18:26:06.182Z"
   },
   {
     "id": "STM32H750B-DK",
@@ -2431,7 +2433,7 @@
         "pdfCreated": "2023-07-27T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:08:07.818Z"
+    "scrapedAt": "2026-09-08T18:26:07.513Z"
   },
   {
     "id": "NUCLEO-N657X0-Q",
@@ -2476,7 +2478,7 @@
         "pdfCreated": "2024-09-05T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:08:39.079Z"
+    "scrapedAt": "2026-09-08T18:26:39.106Z"
   },
   {
     "id": "STM32N6570-DK",
@@ -2551,7 +2553,7 @@
         "pdfCreated": "2023-09-04T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:09:32.994Z"
+    "scrapedAt": "2026-09-08T18:27:10.665Z"
   },
   {
     "id": "NUCLEO-C031C6",
@@ -2626,7 +2628,7 @@
         "pdfCreated": "2021-10-26T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:10:04.774Z"
+    "scrapedAt": "2026-09-08T18:27:42.384Z"
   },
   {
     "id": "NUCLEO-C051C8",
@@ -2701,7 +2703,7 @@
         "pdfCreated": "2024-10-08T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:10:36.413Z"
+    "scrapedAt": "2026-09-08T18:28:13.882Z"
   },
   {
     "id": "NUCLEO-C071RB",
@@ -2776,7 +2778,7 @@
         "pdfCreated": "2024-04-07T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:11:07.820Z"
+    "scrapedAt": "2026-09-08T18:28:45.655Z"
   },
   {
     "id": "NUCLEO-C092RC",
@@ -2851,7 +2853,7 @@
         "pdfCreated": "2024-09-24T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:11:39.286Z"
+    "scrapedAt": "2026-09-08T18:29:17.515Z"
   },
   {
     "id": "STM32C0116-DK",
@@ -2926,7 +2928,7 @@
         "pdfCreated": "2021-11-04T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:12:10.881Z"
+    "scrapedAt": "2026-09-08T18:29:18.759Z"
   },
   {
     "id": "STM32C0316-DK",
@@ -3001,7 +3003,7 @@
         "pdfCreated": "2021-11-04T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:12:42.354Z"
+    "scrapedAt": "2026-09-08T18:29:50.724Z"
   },
   {
     "id": "32F072BDISCOVERY",
@@ -3095,7 +3097,7 @@
         "pdfCreated": "2013-10-28T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:13:13.688Z"
+    "scrapedAt": "2026-09-08T18:30:22.218Z"
   },
   {
     "id": "NUCLEO-F042K6",
@@ -3187,7 +3189,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T06:13:45.171Z"
+    "scrapedAt": "2026-09-08T18:30:53.775Z"
   },
   {
     "id": "STEVAL-SPIN3204",
@@ -3210,7 +3212,7 @@
         "pdfModified": "2019-05-07T11:36:09+02:00"
       }
     ],
-    "scrapedAt": "2026-06-06T06:14:16.895Z"
+    "scrapedAt": "2026-09-08T18:30:55.168Z"
   },
   {
     "id": "NUCLEO-F031K6",
@@ -3296,7 +3298,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T06:14:48.532Z"
+    "scrapedAt": "2026-09-08T18:31:35.191Z"
   },
   {
     "id": "NUCLEO-F072RB",
@@ -3384,7 +3386,7 @@
         "pdfCreated": "2022-08-17T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:15:19.904Z"
+    "scrapedAt": "2026-09-08T18:32:07.276Z"
   },
   {
     "id": "NUCLEO-F091RC",
@@ -3472,7 +3474,7 @@
         "pdfCreated": "2022-08-17T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:15:51.388Z"
+    "scrapedAt": "2026-09-08T18:32:38.962Z"
   },
   {
     "id": "STM32F0DISCOVERY",
@@ -3519,7 +3521,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T06:15:52.623Z"
+    "scrapedAt": "2026-09-08T18:33:10.793Z"
   },
   {
     "id": "STDES-USBPWRMT1",
@@ -3542,7 +3544,7 @@
         "pdfModified": "2022-06-17T16:12:01+02:00"
       }
     ],
-    "scrapedAt": "2026-06-06T06:15:53.702Z"
+    "scrapedAt": "2026-09-08T18:33:12.181Z"
   },
   {
     "id": "STEVAL-ISA147V3",
@@ -3566,7 +3568,7 @@
         "pdfModified": "2016-03-14T15:22:23+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T06:15:54.822Z"
+    "scrapedAt": "2026-09-08T18:33:43.848Z"
   },
   {
     "id": "STEVAL-LLL013V1",
@@ -3589,7 +3591,7 @@
         "pdfModified": "2023-02-07T13:51:19+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T06:16:00.482Z"
+    "scrapedAt": "2026-09-08T18:33:45.154Z"
   },
   {
     "id": "STDES-2KW5CH48V",
@@ -3612,7 +3614,7 @@
         "pdfModified": "2022-10-19T14:02:15+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T06:16:31.941Z"
+    "scrapedAt": "2026-09-08T18:33:46.668Z"
   },
   {
     "id": "NUCLEO-F103RB",
@@ -3728,7 +3730,7 @@
         "pdfCreated": "2022-08-17T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:17:03.328Z"
+    "scrapedAt": "2026-09-08T18:34:18.662Z"
   },
   {
     "id": "STM32VLDISCOVERY",
@@ -3766,7 +3768,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T06:17:11.411Z"
+    "scrapedAt": "2026-09-08T18:34:20.129Z"
   },
   {
     "id": "STEVAL-IHM036V1",
@@ -3780,7 +3782,8 @@
       "STM32F100R4",
       "STM32F100R8",
       "STM32F100VC",
-      "STM32F100ZE"
+      "STM32F100ZE",
+      "STM32F100CB"
     ],
     "schematics": [
       {
@@ -3795,7 +3798,7 @@
         "pdfModified": "2012-05-10T09:44:26+02:00"
       }
     ],
-    "scrapedAt": "2026-06-06T06:17:42.771Z"
+    "scrapedAt": "2026-09-08T18:34:21.829Z"
   },
   {
     "id": "STEVAL-IHM040V1",
@@ -3809,7 +3812,8 @@
       "STM32F100R4",
       "STM32F100R8",
       "STM32F100VC",
-      "STM32F100ZE"
+      "STM32F100ZE",
+      "STM32F100CB"
     ],
     "schematics": [
       {
@@ -3824,7 +3828,7 @@
         "pdfModified": "2013-01-11T10:01:04+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T06:18:14.117Z"
+    "scrapedAt": "2026-09-08T18:34:23.663Z"
   },
   {
     "id": "32F3348DISCOVERY",
@@ -3914,7 +3918,7 @@
         "pdfCreated": "2014-05-30T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:18:45.676Z"
+    "scrapedAt": "2026-09-08T18:34:55.260Z"
   },
   {
     "id": "NUCLEO-F302R8",
@@ -3979,7 +3983,9 @@
       "STM32F378CC",
       "STM32F378RC",
       "STM32F378VC",
-      "STM32F398VE"
+      "STM32F398VE",
+      "STM32F302K6",
+      "STM32F303VB"
     ],
     "schematics": [
       {
@@ -3993,7 +3999,7 @@
         "pdfCreated": "2022-08-17T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:18:46.933Z"
+    "scrapedAt": "2026-09-08T18:35:26.837Z"
   },
   {
     "id": "NUCLEO-F303K8",
@@ -4058,7 +4064,9 @@
       "STM32F378CC",
       "STM32F378RC",
       "STM32F378VC",
-      "STM32F398VE"
+      "STM32F398VE",
+      "STM32F302K6",
+      "STM32F303VB"
     ],
     "schematics": [
       {
@@ -4070,7 +4078,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T06:19:18.559Z"
+    "scrapedAt": "2026-09-08T18:35:58.586Z"
   },
   {
     "id": "NUCLEO-F303RE",
@@ -4137,7 +4145,8 @@
       "STM32F378CC",
       "STM32F378RC",
       "STM32F378VC",
-      "STM32F398VE"
+      "STM32F398VE",
+      "STM32F302K6"
     ],
     "schematics": [
       {
@@ -4151,7 +4160,7 @@
         "pdfCreated": "2022-08-17T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:19:49.982Z"
+    "scrapedAt": "2026-09-08T18:36:30.259Z"
   },
   {
     "id": "NUCLEO-F303ZE",
@@ -4216,7 +4225,9 @@
       "STM32F378CC",
       "STM32F378RC",
       "STM32F378VC",
-      "STM32F398VE"
+      "STM32F398VE",
+      "STM32F302K6",
+      "STM32F303VB"
     ],
     "schematics": [
       {
@@ -4228,7 +4239,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T06:20:21.432Z"
+    "scrapedAt": "2026-09-08T18:37:01.833Z"
   },
   {
     "id": "NUCLEO-F334R8",
@@ -4293,7 +4304,9 @@
       "STM32F378CC",
       "STM32F378RC",
       "STM32F378VC",
-      "STM32F398VE"
+      "STM32F398VE",
+      "STM32F302K6",
+      "STM32F303VB"
     ],
     "schematics": [
       {
@@ -4307,7 +4320,7 @@
         "pdfCreated": "2022-08-17T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:20:53.204Z"
+    "scrapedAt": "2026-09-08T18:37:03.310Z"
   },
   {
     "id": "STM32303E-EVAL",
@@ -4372,7 +4385,9 @@
       "STM32F378CC",
       "STM32F378RC",
       "STM32F378VC",
-      "STM32F398VE"
+      "STM32F398VE",
+      "STM32F302K6",
+      "STM32F303VB"
     ],
     "schematics": [
       {
@@ -4383,7 +4398,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T06:21:24.606Z"
+    "scrapedAt": "2026-09-08T18:37:04.975Z"
   },
   {
     "id": "STM32F3DISCOVERY",
@@ -4448,7 +4463,9 @@
       "STM32F378CC",
       "STM32F378RC",
       "STM32F378VC",
-      "STM32F398VE"
+      "STM32F398VE",
+      "STM32F302K6",
+      "STM32F303VB"
     ],
     "schematics": [
       {
@@ -4462,7 +4479,7 @@
         "pdfCreated": "2016-03-23T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:21:56.132Z"
+    "scrapedAt": "2026-09-08T18:37:36.546Z"
   },
   {
     "id": "STEVAL-PMIC2LKV1",
@@ -4485,7 +4502,7 @@
         "pdfModified": "2025-11-21T11:03:17+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T06:22:00.152Z"
+    "scrapedAt": "2026-09-08T18:37:38.371Z"
   },
   {
     "id": "STEVAL-DPSTPFC1",
@@ -4507,7 +4524,7 @@
         "pdfCreated": "2020-12-15T11:56:11+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T06:22:02.227Z"
+    "scrapedAt": "2026-09-08T18:38:10.391Z"
   },
   {
     "id": "STEVAL-DPS334C1",
@@ -4530,7 +4547,7 @@
         "pdfModified": "2021-06-14T10:44:08+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T06:22:03.570Z"
+    "scrapedAt": "2026-09-08T18:38:11.976Z"
   },
   {
     "id": "STEVAL-PCC020V2",
@@ -4550,7 +4567,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T06:22:04.790Z"
+    "scrapedAt": "2026-09-08T18:38:13.693Z"
   },
   {
     "id": "STM32373C-EVAL",
@@ -4578,7 +4595,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T06:22:36.240Z"
+    "scrapedAt": "2026-09-08T18:38:15.280Z"
   },
   {
     "id": "NUCLEO-G071RB",
@@ -4698,7 +4715,7 @@
         "pdfCreated": "2020-12-08T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:22:37.818Z"
+    "scrapedAt": "2026-09-08T18:38:46.965Z"
   },
   {
     "id": "NUCLEO-G0B1RE",
@@ -4818,7 +4835,7 @@
         "pdfCreated": "2020-09-18T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:23:09.498Z"
+    "scrapedAt": "2026-09-08T18:39:18.558Z"
   },
   {
     "id": "STM32G071B-DISCO",
@@ -4938,7 +4955,7 @@
         "pdfCreated": "2018-10-30T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:23:40.986Z"
+    "scrapedAt": "2026-09-08T18:39:19.905Z"
   },
   {
     "id": "NUCLEO-G031K8",
@@ -5042,7 +5059,9 @@
       "STM32G0C1RC",
       "STM32G0C1RE",
       "STM32G0C1VC",
-      "STM32G0C1VE"
+      "STM32G0C1VE",
+      "STM32G050C8",
+      "STM32G0C1CE"
     ],
     "schematics": [
       {
@@ -5056,7 +5075,7 @@
         "pdfCreated": "2026-02-05T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:24:12.628Z"
+    "scrapedAt": "2026-09-08T18:39:52.070Z"
   },
   {
     "id": "NUCLEO-G070RB",
@@ -5080,7 +5099,8 @@
       "STM32G050K8",
       "STM32G070KB",
       "STM32G0B0RE",
-      "STM32G0B0VE"
+      "STM32G0B0VE",
+      "STM32G050C8"
     ],
     "schematics": [
       {
@@ -5094,7 +5114,7 @@
         "pdfCreated": "2020-12-01T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:24:44.113Z"
+    "scrapedAt": "2026-09-08T18:39:53.438Z"
   },
   {
     "id": "STM32G0316-DISCO",
@@ -5198,7 +5218,9 @@
       "STM32G0C1RC",
       "STM32G0C1RE",
       "STM32G0C1VC",
-      "STM32G0C1VE"
+      "STM32G0C1VE",
+      "STM32G050C8",
+      "STM32G0C1CE"
     ],
     "schematics": [
       {
@@ -5212,7 +5234,7 @@
         "pdfCreated": "2019-06-25T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:25:15.572Z"
+    "scrapedAt": "2026-09-08T18:40:25.476Z"
   },
   {
     "id": "STM32G081B-EVAL",
@@ -5316,7 +5338,9 @@
       "STM32G0C1RC",
       "STM32G0C1RE",
       "STM32G0C1VC",
-      "STM32G0C1VE"
+      "STM32G0C1VE",
+      "STM32G050C8",
+      "STM32G0C1CE"
     ],
     "schematics": [
       {
@@ -5360,7 +5384,7 @@
         "pdfCreated": "2018-08-03T10:29:33Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:25:17.420Z"
+    "scrapedAt": "2026-09-08T18:40:27.903Z"
   },
   {
     "id": "STM32G0C1E-EV",
@@ -5464,7 +5488,9 @@
       "STM32G0C1RC",
       "STM32G0C1RE",
       "STM32G0C1VC",
-      "STM32G0C1VE"
+      "STM32G0C1VE",
+      "STM32G050C8",
+      "STM32G0C1CE"
     ],
     "schematics": [
       {
@@ -5508,7 +5534,7 @@
         "pdfCreated": "2020-09-07T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:25:49.402Z"
+    "scrapedAt": "2026-09-08T18:40:29.292Z"
   },
   {
     "id": "STDES-KNXRFID",
@@ -5531,7 +5557,7 @@
         "pdfModified": "2025-03-26T16:00:31+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T06:25:55.418Z"
+    "scrapedAt": "2026-09-08T18:40:30.622Z"
   },
   {
     "id": "STDES-KNXRGBDRV",
@@ -5554,7 +5580,7 @@
         "pdfModified": "2025-09-30T16:11:01+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T06:26:14.275Z"
+    "scrapedAt": "2026-09-08T18:40:32.098Z"
   },
   {
     "id": "STDES-KNXPSENSOR",
@@ -5577,7 +5603,7 @@
         "pdfModified": "2025-04-16T11:19:04+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T06:26:21.133Z"
+    "scrapedAt": "2026-09-08T18:40:33.873Z"
   },
   {
     "id": "STDES-HARMONYKNX",
@@ -5600,7 +5626,7 @@
         "pdfModified": "2024-11-25T14:29:24+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T06:26:22.471Z"
+    "scrapedAt": "2026-09-08T18:40:35.290Z"
   },
   {
     "id": "STEVAL-4KNXDVCB",
@@ -5611,7 +5637,7 @@
       "STM32G070CB"
     ],
     "schematics": [],
-    "scrapedAt": "2026-06-06T06:26:53.850Z"
+    "scrapedAt": "2026-09-08T18:41:06.574Z"
   },
   {
     "id": "STEVAL-STKNX1CB",
@@ -5622,7 +5648,7 @@
       "STM32G070CB"
     ],
     "schematics": [],
-    "scrapedAt": "2026-06-06T06:27:25.005Z"
+    "scrapedAt": "2026-09-08T18:41:38.087Z"
   },
   {
     "id": "B-G431B-ESC1",
@@ -5726,7 +5752,7 @@
         "pdfCreated": "2021-02-18T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:27:56.504Z"
+    "scrapedAt": "2026-09-08T18:42:10.313Z"
   },
   {
     "id": "B-G474E-DPOW1",
@@ -5831,7 +5857,7 @@
         "pdfModified": "2019-07-02T18:40:57+02:00"
       }
     ],
-    "scrapedAt": "2026-06-06T06:28:28.235Z"
+    "scrapedAt": "2026-09-08T18:42:42.012Z"
   },
   {
     "id": "NUCLEO-G491RE",
@@ -5935,7 +5961,7 @@
         "pdfCreated": "2022-02-07T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:28:59.709Z"
+    "scrapedAt": "2026-09-08T18:43:13.850Z"
   },
   {
     "id": "NUCLEO-G431KB",
@@ -6022,7 +6048,8 @@
       "STM32G484CE",
       "STM32G484PE",
       "STM32G484QE",
-      "STM32G484RE"
+      "STM32G484RE",
+      "STM32G483QE"
     ],
     "schematics": [
       {
@@ -6036,7 +6063,7 @@
         "pdfCreated": "2018-09-27T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:29:31.318Z"
+    "scrapedAt": "2026-09-08T18:43:45.472Z"
   },
   {
     "id": "NUCLEO-G431RB",
@@ -6123,7 +6150,8 @@
       "STM32G484CE",
       "STM32G484PE",
       "STM32G484QE",
-      "STM32G484RE"
+      "STM32G484RE",
+      "STM32G483QE"
     ],
     "schematics": [
       {
@@ -6137,7 +6165,7 @@
         "pdfCreated": "2022-02-07T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:30:02.794Z"
+    "scrapedAt": "2026-09-08T18:44:17.217Z"
   },
   {
     "id": "NUCLEO-G474RE",
@@ -6224,7 +6252,8 @@
       "STM32G484CE",
       "STM32G484PE",
       "STM32G484QE",
-      "STM32G484RE"
+      "STM32G484RE",
+      "STM32G483QE"
     ],
     "schematics": [
       {
@@ -6238,7 +6267,7 @@
         "pdfCreated": "2025-12-07T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:30:35.286Z"
+    "scrapedAt": "2026-09-08T18:44:48.828Z"
   },
   {
     "id": "P-NUCLEO-IHM03",
@@ -6325,7 +6354,8 @@
       "STM32G484CE",
       "STM32G484PE",
       "STM32G484QE",
-      "STM32G484RE"
+      "STM32G484RE",
+      "STM32G483QE"
     ],
     "schematics": [
       {
@@ -6339,7 +6369,7 @@
         "pdfCreated": "2022-02-07T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:30:36.922Z"
+    "scrapedAt": "2026-09-08T18:45:20.520Z"
   },
   {
     "id": "STM32G474E-EVAL1",
@@ -6426,7 +6456,8 @@
       "STM32G484CE",
       "STM32G484PE",
       "STM32G484QE",
-      "STM32G484RE"
+      "STM32G484RE",
+      "STM32G483QE"
     ],
     "schematics": [
       {
@@ -6450,7 +6481,7 @@
         "pdfCreated": "2011-01-21T10:08:55Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:30:38.099Z"
+    "scrapedAt": "2026-09-08T18:45:52.268Z"
   },
   {
     "id": "STEVAL-PTOOL4A",
@@ -6473,7 +6504,7 @@
         "pdfModified": "2024-04-03T11:33:21+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T06:31:09.501Z"
+    "scrapedAt": "2026-09-08T18:46:23.792Z"
   },
   {
     "id": "STEVAL-FTD01KCB",
@@ -6484,7 +6515,7 @@
       "STM32G473QB"
     ],
     "schematics": [],
-    "scrapedAt": "2026-06-06T06:31:40.901Z"
+    "scrapedAt": "2026-09-08T18:46:55.165Z"
   },
   {
     "id": "32L0538DISCOVERY",
@@ -6604,7 +6635,7 @@
         "pdfCreated": "2022-01-19T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:32:12.441Z"
+    "scrapedAt": "2026-09-08T18:46:56.667Z"
   },
   {
     "id": "NUCLEO-L031K6",
@@ -6722,7 +6753,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T06:32:44.062Z"
+    "scrapedAt": "2026-09-08T18:46:58.270Z"
   },
   {
     "id": "NUCLEO-L010RB",
@@ -6749,7 +6780,7 @@
         "pdfCreated": "2022-08-17T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:33:15.697Z"
+    "scrapedAt": "2026-09-08T18:46:59.685Z"
   },
   {
     "id": "NUCLEO-L011K4",
@@ -6862,7 +6893,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T06:33:47.775Z"
+    "scrapedAt": "2026-09-08T18:47:01.092Z"
   },
   {
     "id": "NUCLEO-L073RZ",
@@ -6977,7 +7008,7 @@
         "pdfCreated": "2022-08-17T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:34:19.164Z"
+    "scrapedAt": "2026-09-08T18:47:32.759Z"
   },
   {
     "id": "STM32L073Z-EVAL",
@@ -7122,7 +7153,7 @@
         "pdfCreated": "2022-07-27T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:34:20.605Z"
+    "scrapedAt": "2026-09-08T18:47:34.119Z"
   },
   {
     "id": "NUCLEO-L053R8",
@@ -7231,7 +7262,7 @@
         "pdfCreated": "2022-08-17T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:34:52.156Z"
+    "scrapedAt": "2026-09-08T18:48:05.947Z"
   },
   {
     "id": "P-NUCLEO-IOD3A1",
@@ -7242,7 +7273,7 @@
       "STM32L073RZ"
     ],
     "schematics": [],
-    "scrapedAt": "2026-06-06T06:35:23.497Z"
+    "scrapedAt": "2026-09-08T18:48:37.169Z"
   },
   {
     "id": "32L152CDISCOVERY",
@@ -7321,7 +7352,7 @@
         "pdfBytes": 2378228
       }
     ],
-    "scrapedAt": "2026-06-06T06:35:55.030Z"
+    "scrapedAt": "2026-09-08T18:49:08.736Z"
   },
   {
     "id": "NUCLEO-L152RE",
@@ -7401,7 +7432,7 @@
         "pdfCreated": "2022-08-17T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:36:26.811Z"
+    "scrapedAt": "2026-09-08T18:49:40.455Z"
   },
   {
     "id": "32L496GDISCOVERY",
@@ -7526,7 +7557,7 @@
         "pdfCreated": "2024-07-15T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:36:58.615Z"
+    "scrapedAt": "2026-09-08T18:50:12.049Z"
   },
   {
     "id": "NUCLEO-L476RG",
@@ -7641,7 +7672,7 @@
         "pdfCreated": "2022-08-17T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:37:30.189Z"
+    "scrapedAt": "2026-09-08T18:50:44.295Z"
   },
   {
     "id": "B-L462E-CELL1",
@@ -7761,7 +7792,7 @@
         "pdfCreated": "2021-01-20T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:37:31.441Z"
+    "scrapedAt": "2026-09-08T18:51:15.947Z"
   },
   {
     "id": "B-L475E-IOT01A",
@@ -7869,7 +7900,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T06:38:03.184Z"
+    "scrapedAt": "2026-09-08T18:51:47.606Z"
   },
   {
     "id": "NUCLEO-L412KB",
@@ -7977,7 +8008,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T06:38:04.491Z"
+    "scrapedAt": "2026-09-08T18:52:19.128Z"
   },
   {
     "id": "NUCLEO-L412RB-P",
@@ -8087,7 +8118,7 @@
         "pdfCreated": "2022-05-10T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:38:35.674Z"
+    "scrapedAt": "2026-09-08T18:52:50.668Z"
   },
   {
     "id": "NUCLEO-L432KC",
@@ -8195,7 +8226,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T06:39:07.156Z"
+    "scrapedAt": "2026-09-08T18:52:52.076Z"
   },
   {
     "id": "NUCLEO-L433RC-P",
@@ -8305,7 +8336,7 @@
         "pdfCreated": "2022-05-10T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:39:08.288Z"
+    "scrapedAt": "2026-09-08T18:53:31.743Z"
   },
   {
     "id": "NUCLEO-L452RE",
@@ -8415,7 +8446,7 @@
         "pdfCreated": "2022-08-17T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:39:09.620Z"
+    "scrapedAt": "2026-09-08T18:54:03.340Z"
   },
   {
     "id": "NUCLEO-L452RE-P",
@@ -8525,7 +8556,7 @@
         "pdfCreated": "2022-05-10T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:39:41.225Z"
+    "scrapedAt": "2026-09-08T18:54:35.005Z"
   },
   {
     "id": "NUCLEO-L496ZG-P",
@@ -8635,7 +8666,7 @@
         "pdfCreated": "2019-11-11T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:40:12.741Z"
+    "scrapedAt": "2026-09-08T18:54:36.452Z"
   },
   {
     "id": "NUCLEO-L4A6ZG",
@@ -8745,7 +8776,7 @@
         "pdfCreated": "2019-11-11T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:40:20.353Z"
+    "scrapedAt": "2026-09-08T18:54:38.053Z"
   },
   {
     "id": "P-L496G-CELL02",
@@ -8875,7 +8906,7 @@
         "pdfCreated": "2018-04-10T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:40:51.874Z"
+    "scrapedAt": "2026-09-08T18:55:10.499Z"
   },
   {
     "id": "STM32L476G-EVAL",
@@ -9005,7 +9036,7 @@
         "pdfCreated": "2022-07-27T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:41:23.705Z"
+    "scrapedAt": "2026-09-08T18:55:41.942Z"
   },
   {
     "id": "32L4R9IDISCOVERY",
@@ -9079,7 +9110,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T06:41:55.227Z"
+    "scrapedAt": "2026-09-08T18:55:43.296Z"
   },
   {
     "id": "B-L4S5I-IOT01A",
@@ -9145,7 +9176,7 @@
         "pdfCreated": "2021-08-16T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:41:56.791Z"
+    "scrapedAt": "2026-09-08T18:55:44.950Z"
   },
   {
     "id": "NUCLEO-L4R5ZI",
@@ -9211,7 +9242,7 @@
         "pdfCreated": "2019-11-11T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:41:58.230Z"
+    "scrapedAt": "2026-09-08T18:56:17.215Z"
   },
   {
     "id": "STEVAL-SMARTAG2",
@@ -9234,7 +9265,7 @@
         "pdfModified": "2023-07-25T13:53:56+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T06:42:29.800Z"
+    "scrapedAt": "2026-09-08T18:56:18.580Z"
   },
   {
     "id": "NUCLEO-L4P5ZG",
@@ -9299,7 +9330,7 @@
         "pdfCreated": "2019-11-11T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:43:01.600Z"
+    "scrapedAt": "2026-09-08T18:56:20.011Z"
   },
   {
     "id": "NUCLEO-L4R5ZI-P",
@@ -9364,7 +9395,7 @@
         "pdfCreated": "2019-11-11T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:43:32.859Z"
+    "scrapedAt": "2026-09-08T18:56:51.937Z"
   },
   {
     "id": "STM32L4R9I-EVAL",
@@ -9449,7 +9480,7 @@
         "pdfCreated": "2018-05-02T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:43:34.197Z"
+    "scrapedAt": "2026-09-08T18:56:53.460Z"
   },
   {
     "id": "STEVAL-STWINKT1B",
@@ -9472,7 +9503,7 @@
         "pdfModified": "2024-03-12T14:14:29+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T06:44:05.601Z"
+    "scrapedAt": "2026-09-08T18:57:25.413Z"
   },
   {
     "id": "STEVAL-MKSBOX1V1",
@@ -9494,7 +9525,7 @@
         "pdfCreated": "2019-06-21T10:28:20+02:00"
       }
     ],
-    "scrapedAt": "2026-06-06T06:44:06.975Z"
+    "scrapedAt": "2026-09-08T18:57:56.977Z"
   },
   {
     "id": "STEVAL-STWINKT1",
@@ -9517,7 +9548,7 @@
         "pdfModified": "2019-07-18T16:22:16+02:00"
       }
     ],
-    "scrapedAt": "2026-06-06T06:44:39.307Z"
+    "scrapedAt": "2026-09-08T18:57:59.592Z"
   },
   {
     "id": "NUCLEO-L552ZE-Q",
@@ -9555,7 +9586,7 @@
         "pdfCreated": "2019-09-19T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:45:17.197Z"
+    "scrapedAt": "2026-09-08T18:58:31.722Z"
   },
   {
     "id": "STM32L562E-DK",
@@ -9603,7 +9634,7 @@
         "pdfCreated": "2023-06-14T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:45:49.106Z"
+    "scrapedAt": "2026-09-08T18:58:33.326Z"
   },
   {
     "id": "STM32L552E-EV",
@@ -9661,7 +9692,7 @@
         "pdfCreated": "2019-09-19T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:46:20.318Z"
+    "scrapedAt": "2026-09-08T18:58:35.207Z"
   },
   {
     "id": "NUCLEO-U385RG-Q",
@@ -9694,7 +9725,7 @@
         "pdfCreated": "2024-12-17T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:46:51.730Z"
+    "scrapedAt": "2026-09-08T18:59:06.891Z"
   },
   {
     "id": "STDES-MB2095",
@@ -9718,7 +9749,7 @@
         "pdfCreated": "2025-04-07T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:46:58.793Z"
+    "scrapedAt": "2026-09-08T18:59:08.960Z"
   },
   {
     "id": "NUCLEO-U545RE-Q",
@@ -9794,7 +9825,9 @@
       "STM32U5F9VJ",
       "STM32U5F9ZJ",
       "STM32U5G9NJ",
-      "STM32U5G9VJ"
+      "STM32U5G9VJ",
+      "STM32U575OG",
+      "STM32U575VI"
     ],
     "schematics": [
       {
@@ -9808,7 +9841,7 @@
         "pdfCreated": "2022-11-29T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:47:30.236Z"
+    "scrapedAt": "2026-09-08T18:59:40.937Z"
   },
   {
     "id": "STDES-67W61BU-U5",
@@ -9909,7 +9942,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T06:47:31.590Z"
+    "scrapedAt": "2026-09-08T19:00:12.806Z"
   },
   {
     "id": "B-U585I-IOT02A",
@@ -10004,7 +10037,7 @@
         "pdfCreated": "2023-03-24T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:48:02.934Z"
+    "scrapedAt": "2026-09-08T19:00:44.482Z"
   },
   {
     "id": "NUCLEO-U575ZI-Q",
@@ -10080,7 +10113,9 @@
       "STM32U5F9VJ",
       "STM32U5F9ZJ",
       "STM32U5G9NJ",
-      "STM32U5G9VJ"
+      "STM32U5G9VJ",
+      "STM32U575OG",
+      "STM32U575VI"
     ],
     "schematics": [
       {
@@ -10094,7 +10129,7 @@
         "pdfCreated": "2023-07-12T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:48:34.578Z"
+    "scrapedAt": "2026-09-08T19:01:15.938Z"
   },
   {
     "id": "NUCLEO-U5A5ZJ-Q",
@@ -10170,7 +10205,9 @@
       "STM32U5F9VJ",
       "STM32U5F9ZJ",
       "STM32U5G9NJ",
-      "STM32U5G9VJ"
+      "STM32U5G9VJ",
+      "STM32U575OG",
+      "STM32U575VI"
     ],
     "schematics": [
       {
@@ -10184,7 +10221,7 @@
         "pdfCreated": "2022-09-30T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:49:06.017Z"
+    "scrapedAt": "2026-09-08T19:01:47.739Z"
   },
   {
     "id": "STM32U575I-EV",
@@ -10260,7 +10297,9 @@
       "STM32U5F9VJ",
       "STM32U5F9ZJ",
       "STM32U5G9NJ",
-      "STM32U5G9VJ"
+      "STM32U5G9VJ",
+      "STM32U575OG",
+      "STM32U575VI"
     ],
     "schematics": [
       {
@@ -10304,7 +10343,7 @@
         "pdfCreated": "2020-08-20T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:49:38.484Z"
+    "scrapedAt": "2026-09-08T19:02:19.251Z"
   },
   {
     "id": "STM32U5G9J-DK1",
@@ -10380,7 +10419,9 @@
       "STM32U599ZI",
       "STM32U5A9BJ",
       "STM32U5A9ZJ",
-      "STM32U5F7VJ"
+      "STM32U5F7VJ",
+      "STM32U575OG",
+      "STM32U575VI"
     ],
     "schematics": [
       {
@@ -10404,7 +10445,7 @@
         "pdfCreated": "2023-02-14T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:50:10.099Z"
+    "scrapedAt": "2026-09-08T19:02:50.822Z"
   },
   {
     "id": "STM32U5G9J-DK2",
@@ -10480,7 +10521,9 @@
       "STM32U599ZI",
       "STM32U5A9BJ",
       "STM32U5A9ZJ",
-      "STM32U5F7VJ"
+      "STM32U5F7VJ",
+      "STM32U575OG",
+      "STM32U575VI"
     ],
     "schematics": [
       {
@@ -10504,7 +10547,7 @@
         "pdfCreated": "2023-07-05T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:50:41.714Z"
+    "scrapedAt": "2026-09-08T19:03:22.581Z"
   },
   {
     "id": "STDES-67W61P2-U5",
@@ -10532,7 +10575,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T06:50:42.931Z"
+    "scrapedAt": "2026-09-08T19:03:25.101Z"
   },
   {
     "id": "STDES-67W61P1-U5",
@@ -10560,7 +10603,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T06:51:14.348Z"
+    "scrapedAt": "2026-09-08T19:03:26.556Z"
   },
   {
     "id": "STEVAL-NBIOTV1",
@@ -10583,7 +10626,7 @@
         "pdfModified": "2025-11-06T10:25:13+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T06:51:45.716Z"
+    "scrapedAt": "2026-09-08T19:03:58.439Z"
   },
   {
     "id": "STEVAL-STWINBX1",
@@ -10606,7 +10649,7 @@
         "pdfModified": "2024-10-29T14:42:46+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T06:52:17.648Z"
+    "scrapedAt": "2026-09-08T19:04:30.050Z"
   },
   {
     "id": "B-WB1M-WPAN1",
@@ -10630,7 +10673,8 @@
       "STM32WB55VY",
       "STM32WB1MMC",
       "STM32WB5MMG",
-      "STM32WB35CE"
+      "STM32WB35CE",
+      "STM32WB55RE"
     ],
     "schematics": [
       {
@@ -10654,7 +10698,7 @@
         "pdfCreated": "2023-11-14T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:52:49.506Z"
+    "scrapedAt": "2026-09-08T19:04:31.522Z"
   },
   {
     "id": "STDES-WBA2U4DSN",
@@ -10676,7 +10720,7 @@
         "pdfCreated": "2025-10-20T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:52:56.357Z"
+    "scrapedAt": "2026-09-08T19:04:33.230Z"
   },
   {
     "id": "NUCLEO-WBA25CE1",
@@ -10711,7 +10755,7 @@
         "pdfCreated": "2026-02-05T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:53:27.880Z"
+    "scrapedAt": "2026-09-08T19:05:04.501Z"
   },
   {
     "id": "X-NUCLEO-WBA25A1",
@@ -10746,7 +10790,7 @@
         "pdfCreated": "2026-02-05T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:53:59.296Z"
+    "scrapedAt": "2026-09-08T19:05:06.136Z"
   },
   {
     "id": "NUCLEO-WBA65RI",
@@ -10814,7 +10858,7 @@
         "pdfCreated": "2025-02-03T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:54:02.198Z"
+    "scrapedAt": "2026-09-08T19:05:38.138Z"
   },
   {
     "id": "STM32WBA55G-DK1",
@@ -10878,7 +10922,7 @@
         "pdfCreated": "2024-03-04T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:54:33.825Z"
+    "scrapedAt": "2026-09-08T19:06:10.004Z"
   },
   {
     "id": "STDES-WBA2U4DLN",
@@ -10900,7 +10944,7 @@
         "pdfCreated": "2026-01-20T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:54:35.334Z"
+    "scrapedAt": "2026-09-08T19:06:12.385Z"
   },
   {
     "id": "STDES-WBA2U4DSU",
@@ -10922,7 +10966,7 @@
         "pdfCreated": "2025-10-27T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:54:36.731Z"
+    "scrapedAt": "2026-09-08T19:06:14.106Z"
   },
   {
     "id": "STDES-WBA2T4ISU",
@@ -10944,7 +10988,7 @@
         "pdfCreated": "2026-02-12T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:54:37.984Z"
+    "scrapedAt": "2026-09-08T19:06:16.162Z"
   },
   {
     "id": "STM32WBA65I-DK1",
@@ -10993,7 +11037,7 @@
         "pdfCreated": "2025-01-09T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:55:10.129Z"
+    "scrapedAt": "2026-09-08T19:06:48.004Z"
   },
   {
     "id": "STDES-WBA6I8D51",
@@ -11015,7 +11059,7 @@
         "pdfCreated": "2025-04-08T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:55:41.330Z"
+    "scrapedAt": "2026-09-08T19:06:49.463Z"
   },
   {
     "id": "STDES-WBA6U4DA0",
@@ -11037,7 +11081,7 @@
         "pdfCreated": "2025-04-07T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:55:48.983Z"
+    "scrapedAt": "2026-09-08T19:06:50.872Z"
   },
   {
     "id": "STEVAL-ALOCKCB",
@@ -11048,7 +11092,7 @@
       "STM32WBA65RI"
     ],
     "schematics": [],
-    "scrapedAt": "2026-06-06T06:56:20.224Z"
+    "scrapedAt": "2026-09-08T19:07:22.106Z"
   },
   {
     "id": "NUCLEO-WL33CC1",
@@ -11110,7 +11154,7 @@
         "pdfCreated": "2024-10-01T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:56:51.741Z"
+    "scrapedAt": "2026-09-08T19:07:53.848Z"
   },
   {
     "id": "NUCLEO-WL33CC2",
@@ -11172,7 +11216,7 @@
         "pdfCreated": "2024-10-01T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:56:53.147Z"
+    "scrapedAt": "2026-09-08T19:07:55.288Z"
   },
   {
     "id": "NUCLEO-WL3RKB1",
@@ -11234,7 +11278,7 @@
         "pdfCreated": "2025-08-01T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:56:54.948Z"
+    "scrapedAt": "2026-09-08T19:08:27.205Z"
   },
   {
     "id": "NUCLEO-WL3RKB2",
@@ -11296,7 +11340,7 @@
         "pdfCreated": "2025-08-01T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:56:56.263Z"
+    "scrapedAt": "2026-09-08T19:08:58.786Z"
   },
   {
     "id": "STDES-WL3C2ILL",
@@ -11329,7 +11373,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T06:57:02.516Z"
+    "scrapedAt": "2026-09-08T19:09:05.860Z"
   },
   {
     "id": "STDES-WL3C2IMH",
@@ -11362,7 +11406,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T06:57:04.183Z"
+    "scrapedAt": "2026-09-08T19:09:13.150Z"
   },
   {
     "id": "STDES-WL3C2IML",
@@ -11395,7 +11439,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T06:57:05.473Z"
+    "scrapedAt": "2026-09-08T19:09:20.463Z"
   },
   {
     "id": "STDES-WL3C2SLH",
@@ -11428,7 +11472,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T06:57:11.966Z"
+    "scrapedAt": "2026-09-08T19:09:27.225Z"
   },
   {
     "id": "STDES-WL3C2SLL",
@@ -11461,7 +11505,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T06:57:18.681Z"
+    "scrapedAt": "2026-09-08T19:09:37.016Z"
   },
   {
     "id": "STDES-WL3C2SMH",
@@ -11494,7 +11538,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T06:57:20.388Z"
+    "scrapedAt": "2026-09-08T19:09:44.635Z"
   },
   {
     "id": "STDES-WL3C2SML",
@@ -11527,7 +11571,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T06:57:26.083Z"
+    "scrapedAt": "2026-09-08T19:09:51.534Z"
   },
   {
     "id": "STDES-WL3C4EEW",
@@ -11562,7 +11606,7 @@
         "pdfCreated": "2025-11-20T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:57:27.377Z"
+    "scrapedAt": "2026-09-08T19:09:58.484Z"
   },
   {
     "id": "STDES-WL3C4SHH",
@@ -11595,7 +11639,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T06:57:28.764Z"
+    "scrapedAt": "2026-09-08T19:10:05.683Z"
   },
   {
     "id": "STDES-WL3C4SLH",
@@ -11628,7 +11672,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T06:57:37.069Z"
+    "scrapedAt": "2026-09-08T19:10:13.493Z"
   },
   {
     "id": "STDES-WL3C4SLL",
@@ -11661,7 +11705,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T06:57:38.411Z"
+    "scrapedAt": "2026-09-08T19:10:21.389Z"
   },
   {
     "id": "STDES-WL3C4SMH",
@@ -11694,7 +11738,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T06:57:44.616Z"
+    "scrapedAt": "2026-09-08T19:10:30.375Z"
   },
   {
     "id": "STDES-WL3C4SML",
@@ -11727,7 +11771,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T06:57:46.001Z"
+    "scrapedAt": "2026-09-08T19:10:38.804Z"
   },
   {
     "id": "STEVAL-WL33WMKCB",
@@ -11738,7 +11782,7 @@
       "STM32WL33CC"
     ],
     "schematics": [],
-    "scrapedAt": "2026-06-06T06:58:20.989Z"
+    "scrapedAt": "2026-09-08T19:11:10.050Z"
   },
   {
     "id": "STDES-WL5U2IHH",
@@ -11761,7 +11805,7 @@
         "pdfCreated": "2022-09-06T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:58:22.195Z"
+    "scrapedAt": "2026-09-08T19:11:11.388Z"
   },
   {
     "id": "STDES-WL5I4SBB",
@@ -11775,14 +11819,14 @@
     "schematics": [
       {
         "id": "MB1842",
-        "title": "",
+        "title": "MB1842-STM32WL-BGA-73 Board schematic",
         "version": "1.0",
         "lastUpdate": "2025-05-20",
         "url": "https://www.st.com/resource/en/schematic_pack/mb1842-schematic.zip",
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T06:58:53.580Z"
+    "scrapedAt": "2026-09-08T19:11:12.952Z"
   },
   {
     "id": "STDES-WL5I4ILH",
@@ -11805,7 +11849,7 @@
         "pdfCreated": "2022-09-01T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:59:00.168Z"
+    "scrapedAt": "2026-09-08T19:11:14.601Z"
   },
   {
     "id": "STDES-WL5I4IHL",
@@ -11828,7 +11872,7 @@
         "pdfCreated": "2022-09-01T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T06:59:01.951Z"
+    "scrapedAt": "2026-09-08T19:11:16.021Z"
   },
   {
     "id": "STEVAL-ASTRA1B",
@@ -11852,7 +11896,7 @@
         "pdfModified": "2022-03-21T11:35:12+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T06:59:33.542Z"
+    "scrapedAt": "2026-09-08T19:11:48.036Z"
   },
   {
     "id": "STDES-WL5I4IHH",
@@ -11875,7 +11919,7 @@
         "pdfCreated": "2022-09-01T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:00:04.983Z"
+    "scrapedAt": "2026-09-08T19:11:49.378Z"
   },
   {
     "id": "STM32MP135F-DK",
@@ -11918,7 +11962,7 @@
         "pdfCreated": "2023-01-16T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:00:36.782Z"
+    "scrapedAt": "2026-09-08T19:12:27.511Z"
   },
   {
     "id": "STM32MP257F-DK",
@@ -11979,7 +12023,11 @@
       "STM32MP257A",
       "STM32MP257C",
       "STM32MP257D",
-      "STM32MP257F"
+      "STM32MP257F",
+      "STM32MP153A",
+      "STM32MP153F",
+      "STM32MP157C",
+      "STM32MP157F"
     ],
     "schematics": [
       {
@@ -11993,7 +12041,7 @@
         "pdfCreated": "2024-06-03T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:01:08.214Z"
+    "scrapedAt": "2026-09-08T19:12:58.978Z"
   },
   {
     "id": "STM32MP157D-DK1",
@@ -12026,7 +12074,7 @@
         "pdfCreated": "2019-09-27T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:01:40.347Z"
+    "scrapedAt": "2026-09-08T19:13:30.544Z"
   },
   {
     "id": "STM32MP157D-EV1",
@@ -12090,7 +12138,7 @@
         "pdfCreated": "2022-07-11T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:01:52.091Z"
+    "scrapedAt": "2026-09-08T19:14:02.258Z"
   },
   {
     "id": "STM32MP157F-DK2",
@@ -12134,7 +12182,7 @@
         "pdfModified": "2019-07-08T16:39:43+02:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:02:23.793Z"
+    "scrapedAt": "2026-09-08T19:14:33.775Z"
   },
   {
     "id": "STM32MP157F-EV1",
@@ -12198,7 +12246,7 @@
         "pdfCreated": "2022-07-11T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:02:31.852Z"
+    "scrapedAt": "2026-09-08T19:15:05.265Z"
   },
   {
     "id": "STM32MP215F-DK",
@@ -12231,7 +12279,7 @@
         "pdfCreated": "2025-09-04T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:03:04.259Z"
+    "scrapedAt": "2026-09-08T19:15:36.899Z"
   },
   {
     "id": "STM32MP257F-EV1",
@@ -12292,7 +12340,7 @@
         "pdfCreated": "2024-06-13T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:03:36.131Z"
+    "scrapedAt": "2026-09-08T19:16:08.470Z"
   },
   {
     "id": "NUCLEO-8S207K8",
@@ -12381,7 +12429,7 @@
         "pdfCreated": "2019-10-08T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:04:07.598Z"
+    "scrapedAt": "2026-09-08T19:16:40.002Z"
   },
   {
     "id": "STM8A-DISCOVERY",
@@ -12452,7 +12500,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T07:04:09.824Z"
+    "scrapedAt": "2026-09-08T19:17:11.535Z"
   },
   {
     "id": "STM8-SO8-DISCO",
@@ -12484,7 +12532,7 @@
         "pdfCreated": "2019-01-30T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:04:41.250Z"
+    "scrapedAt": "2026-09-08T19:17:43.034Z"
   },
   {
     "id": "NUCLEO-8L152R8",
@@ -12545,7 +12593,7 @@
         "pdfCreated": "2018-01-23T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:04:42.510Z"
+    "scrapedAt": "2026-09-08T19:18:14.604Z"
   },
   {
     "id": "NUCLEO-8S208RB",
@@ -12604,7 +12652,7 @@
         "pdfCreated": "2018-01-23T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:05:13.968Z"
+    "scrapedAt": "2026-09-08T19:18:46.332Z"
   },
   {
     "id": "STEVAL-IHM029V2",
@@ -12635,7 +12683,7 @@
         "pdfModified": "2015-02-02T16:46:03+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:05:15.265Z"
+    "scrapedAt": "2026-09-08T19:18:47.615Z"
   },
   {
     "id": "STEVAL-IHM041V1",
@@ -12663,7 +12711,7 @@
         "pdfModified": "2012-07-12T10:27:59+02:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:05:21.972Z"
+    "scrapedAt": "2026-09-08T19:19:19.189Z"
   },
   {
     "id": "STEVAL-ILD004V1",
@@ -12694,7 +12742,7 @@
         "pdfModified": "2012-12-18T17:45:47+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:05:23.199Z"
+    "scrapedAt": "2026-09-08T19:19:20.460Z"
   },
   {
     "id": "STM32F4DISCOVERY",
@@ -12721,7 +12769,8 @@
       "STM32F417VE",
       "STM32F417VG",
       "STM32F417ZE",
-      "STM32F417ZG"
+      "STM32F417ZG",
+      "STM32F417IG"
     ],
     "schematics": [
       {
@@ -12735,7 +12784,7 @@
         "pdfCreated": "2025-12-10T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:05:54.671Z"
+    "scrapedAt": "2026-09-08T19:19:52.454Z"
   },
   {
     "id": "STEVAL-IHM039V1",
@@ -12758,7 +12807,7 @@
         "pdfModified": "2013-05-08T17:47:22+02:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:05:55.817Z"
+    "scrapedAt": "2026-09-08T19:19:53.786Z"
   },
   {
     "id": "32F429IDISCOVERY",
@@ -12807,7 +12856,7 @@
         "pdfCreated": "2022-11-07T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:06:27.644Z"
+    "scrapedAt": "2026-09-08T19:20:25.397Z"
   },
   {
     "id": "NUCLEO-F439ZI",
@@ -12854,7 +12903,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T07:06:59.367Z"
+    "scrapedAt": "2026-09-08T19:20:58.998Z"
   },
   {
     "id": "STM32429I-EVAL",
@@ -12921,7 +12970,7 @@
         "pdfCreated": "2021-03-04T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:07:35.056Z"
+    "scrapedAt": "2026-09-08T19:21:30.924Z"
   },
   {
     "id": "32F746GDISCOVERY",
@@ -12957,7 +13006,7 @@
         "pdfCreated": "2021-11-08T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:08:06.396Z"
+    "scrapedAt": "2026-09-08T19:22:02.672Z"
   },
   {
     "id": "NUCLEO-F756ZG",
@@ -12991,7 +13040,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T07:08:44.402Z"
+    "scrapedAt": "2026-09-08T19:22:34.230Z"
   },
   {
     "id": "STEVAL-PLC001V1",
@@ -13014,7 +13063,7 @@
         "pdfModified": "2021-10-25T14:56:54+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:08:45.626Z"
+    "scrapedAt": "2026-09-08T19:22:35.774Z"
   },
   {
     "id": "NUCLEO-F030R8",
@@ -13046,7 +13095,7 @@
         "pdfCreated": "2022-08-17T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:09:17.038Z"
+    "scrapedAt": "2026-09-08T19:23:07.992Z"
   },
   {
     "id": "NUCLEO-F070RB",
@@ -13078,7 +13127,7 @@
         "pdfCreated": "2022-08-17T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:09:19.485Z"
+    "scrapedAt": "2026-09-08T19:23:39.597Z"
   },
   {
     "id": "STEVAL-ROBKIT1",
@@ -13102,7 +13151,7 @@
         "pdfModified": "2024-12-16T13:21:47+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:09:20.783Z"
+    "scrapedAt": "2026-09-08T19:23:41.044Z"
   },
   {
     "id": "STEVAL-KIRXK1CB",
@@ -13113,7 +13162,7 @@
       "STM32G071CB"
     ],
     "schematics": [],
-    "scrapedAt": "2026-06-06T07:09:52.068Z"
+    "scrapedAt": "2026-09-08T19:24:13.111Z"
   },
   {
     "id": "STEVAL-KIRXB1CB",
@@ -13124,7 +13173,7 @@
       "STM32G071CB"
     ],
     "schematics": [],
-    "scrapedAt": "2026-06-06T07:10:29.934Z"
+    "scrapedAt": "2026-09-08T19:24:44.483Z"
   },
   {
     "id": "STDES-IODTLIGHT",
@@ -13147,7 +13196,7 @@
         "pdfModified": "2023-05-17T15:50:11+02:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:10:36.324Z"
+    "scrapedAt": "2026-09-08T19:24:45.761Z"
   },
   {
     "id": "STDES-KNXKNOB",
@@ -13170,7 +13219,7 @@
         "pdfModified": "2024-12-18T09:01:43+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:10:37.618Z"
+    "scrapedAt": "2026-09-08T19:24:47.817Z"
   },
   {
     "id": "STEVAL-IOL8DICB",
@@ -13181,7 +13230,7 @@
       "STM32G071CB"
     ],
     "schematics": [],
-    "scrapedAt": "2026-06-06T07:11:13.074Z"
+    "scrapedAt": "2026-09-08T19:25:19.361Z"
   },
   {
     "id": "STEVAL-IOL8DOCB",
@@ -13192,7 +13241,7 @@
       "STM32G071CB"
     ],
     "schematics": [],
-    "scrapedAt": "2026-06-06T07:11:48.546Z"
+    "scrapedAt": "2026-09-08T19:25:51.013Z"
   },
   {
     "id": "STEVAL-KIRXB2CB",
@@ -13203,7 +13252,7 @@
       "STM32G071CB"
     ],
     "schematics": [],
-    "scrapedAt": "2026-06-06T07:12:19.629Z"
+    "scrapedAt": "2026-09-08T19:26:22.320Z"
   },
   {
     "id": "STEVAL-IOD04KT1",
@@ -13226,7 +13275,7 @@
         "pdfModified": "2021-10-27T13:39:44+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:12:20.998Z"
+    "scrapedAt": "2026-09-08T19:26:23.546Z"
   },
   {
     "id": "EVLDRIVE101-HPD",
@@ -13237,7 +13286,7 @@
       "STM32G071KB"
     ],
     "schematics": [],
-    "scrapedAt": "2026-06-06T07:12:52.802Z"
+    "scrapedAt": "2026-09-08T19:26:25.298Z"
   },
   {
     "id": "STEVAL-L99615C",
@@ -13260,7 +13309,7 @@
         "pdfModified": "2023-04-20T16:24:40+02:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:12:54.213Z"
+    "scrapedAt": "2026-09-08T19:26:27.087Z"
   },
   {
     "id": "P-NUCLEO-IOD7A1",
@@ -13271,7 +13320,7 @@
       "STM32G071RB"
     ],
     "schematics": [],
-    "scrapedAt": "2026-06-06T07:13:26.605Z"
+    "scrapedAt": "2026-09-08T19:26:58.414Z"
   },
   {
     "id": "P-NUCLEO-IOD5A1",
@@ -13282,7 +13331,7 @@
       "STM32G071RB"
     ],
     "schematics": [],
-    "scrapedAt": "2026-06-06T07:13:57.802Z"
+    "scrapedAt": "2026-09-08T19:27:29.623Z"
   },
   {
     "id": "STDES-8CHDINPUT",
@@ -13305,7 +13354,7 @@
         "pdfModified": "2023-04-18T16:17:44+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:13:59.047Z"
+    "scrapedAt": "2026-09-08T19:27:31.062Z"
   },
   {
     "id": "STDES-8CHDOUTPT",
@@ -13328,7 +13377,7 @@
         "pdfModified": "2022-10-12T09:56:14+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:14:00.192Z"
+    "scrapedAt": "2026-09-08T19:27:32.662Z"
   },
   {
     "id": "STEVAL-2STPD01",
@@ -13351,7 +13400,7 @@
         "pdfModified": "2021-11-24T11:29:10+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:14:31.694Z"
+    "scrapedAt": "2026-09-08T19:27:34.010Z"
   },
   {
     "id": "STEVAL-CTM014A",
@@ -13374,7 +13423,7 @@
         "pdfModified": "2025-10-20T15:03:24+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:15:03.279Z"
+    "scrapedAt": "2026-09-08T19:27:36.047Z"
   },
   {
     "id": "STDES-PTOOL3A",
@@ -13397,7 +13446,7 @@
         "pdfModified": "2023-08-31T09:19:49+02:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:15:34.706Z"
+    "scrapedAt": "2026-09-08T19:27:37.381Z"
   },
   {
     "id": "STEVAL-CTM020A",
@@ -13420,7 +13469,7 @@
         "pdfModified": "2026-02-11T15:48:27+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:16:06.246Z"
+    "scrapedAt": "2026-09-08T19:27:38.846Z"
   },
   {
     "id": "STEVAL-DPSG474Q",
@@ -13443,7 +13492,7 @@
         "pdfModified": "2025-06-12T10:00:39+02:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:16:07.373Z"
+    "scrapedAt": "2026-09-08T19:28:10.775Z"
   },
   {
     "id": "STEVAL-TTPPFC01",
@@ -13466,7 +13515,7 @@
         "pdfModified": "2025-10-22T10:24:34+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:16:08.671Z"
+    "scrapedAt": "2026-09-08T19:28:12.296Z"
   },
   {
     "id": "STDES-3KWTLCP",
@@ -13489,7 +13538,7 @@
         "pdfModified": "2022-01-12T12:21:21+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:16:10.097Z"
+    "scrapedAt": "2026-09-08T19:28:15.347Z"
   },
   {
     "id": "STEVAL-HILE1G4K1",
@@ -13512,7 +13561,7 @@
         "pdfModified": "2026-01-15T12:23:17+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:16:11.257Z"
+    "scrapedAt": "2026-09-08T19:28:16.985Z"
   },
   {
     "id": "STEVAL-KITXCB",
@@ -13523,7 +13572,7 @@
       "STM32G474RE"
     ],
     "schematics": [],
-    "scrapedAt": "2026-06-06T07:16:12.764Z"
+    "scrapedAt": "2026-09-08T19:28:18.407Z"
   },
   {
     "id": "STEVAL-11BID1KCB",
@@ -13534,7 +13583,7 @@
       "STM32G474RE"
     ],
     "schematics": [],
-    "scrapedAt": "2026-06-06T07:16:43.894Z"
+    "scrapedAt": "2026-09-08T19:28:49.770Z"
   },
   {
     "id": "STDES-30KWVRECT",
@@ -13557,7 +13606,7 @@
         "pdfModified": "2022-04-19T11:44:39+02:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:16:45.141Z"
+    "scrapedAt": "2026-09-08T19:28:51.158Z"
   },
   {
     "id": "STDES-6KWHVDCDC",
@@ -13580,7 +13629,7 @@
         "pdfModified": "2022-12-20T10:20:14+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:16:46.455Z"
+    "scrapedAt": "2026-09-08T19:28:53.107Z"
   },
   {
     "id": "STDES-BCBIDIR",
@@ -13603,7 +13652,7 @@
         "pdfModified": "2023-12-20T14:14:52+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:17:17.999Z"
+    "scrapedAt": "2026-09-08T19:29:24.661Z"
   },
   {
     "id": "STDES-DABBIDIR",
@@ -13626,7 +13675,7 @@
         "pdfModified": "2023-12-13T09:58:25+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:17:50.229Z"
+    "scrapedAt": "2026-09-08T19:29:26.035Z"
   },
   {
     "id": "STDES-VRECTFD",
@@ -13649,7 +13698,7 @@
         "pdfModified": "2021-12-21T14:55:44+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:17:51.414Z"
+    "scrapedAt": "2026-09-08T19:29:57.953Z"
   },
   {
     "id": "STEVAL-10MLPVCB",
@@ -13660,7 +13709,7 @@
       "STM32G474RE"
     ],
     "schematics": [],
-    "scrapedAt": "2026-06-06T07:18:22.680Z"
+    "scrapedAt": "2026-09-08T19:30:29.405Z"
   },
   {
     "id": "STEVAL-250GANCB",
@@ -13671,7 +13720,7 @@
       "STM32G474RE"
     ],
     "schematics": [],
-    "scrapedAt": "2026-06-06T07:18:54.282Z"
+    "scrapedAt": "2026-09-08T19:31:00.749Z"
   },
   {
     "id": "STEVAL-7BIDIRCB",
@@ -13682,7 +13731,7 @@
       "STM32G474RE"
     ],
     "schematics": [],
-    "scrapedAt": "2026-06-06T07:19:25.463Z"
+    "scrapedAt": "2026-09-08T19:31:32.410Z"
   },
   {
     "id": "STEVAL-DCAC1KCB",
@@ -13693,7 +13742,7 @@
       "STM32G474RE"
     ],
     "schematics": [],
-    "scrapedAt": "2026-06-06T07:19:56.630Z"
+    "scrapedAt": "2026-09-08T19:32:03.617Z"
   },
   {
     "id": "STEVAL-DPSG474",
@@ -13716,7 +13765,7 @@
         "pdfModified": "2022-04-12T14:22:40+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:19:57.922Z"
+    "scrapedAt": "2026-09-08T19:32:35.231Z"
   },
   {
     "id": "STEVAL-TTM005A",
@@ -13739,7 +13788,7 @@
         "pdfModified": "2024-03-27T11:54:36+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:20:29.428Z"
+    "scrapedAt": "2026-09-08T19:33:06.901Z"
   },
   {
     "id": "STDES-60KWLLCWR",
@@ -13762,7 +13811,7 @@
         "pdfModified": "2026-02-27T10:16:19+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:20:32.659Z"
+    "scrapedAt": "2026-09-08T19:33:08.702Z"
   },
   {
     "id": "NUCLEO-U031R8",
@@ -13815,7 +13864,7 @@
         "pdfCreated": "2023-04-27T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:20:34.820Z"
+    "scrapedAt": "2026-09-08T19:33:40.586Z"
   },
   {
     "id": "NUCLEO-U083RC",
@@ -13868,7 +13917,7 @@
         "pdfCreated": "2023-04-27T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:21:06.989Z"
+    "scrapedAt": "2026-09-08T19:33:41.932Z"
   },
   {
     "id": "STM32U083C-DK",
@@ -13921,7 +13970,7 @@
         "pdfCreated": "2023-11-21T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:21:38.530Z"
+    "scrapedAt": "2026-09-08T19:34:13.935Z"
   },
   {
     "id": "NUCLEO-U3C5ZI-Q",
@@ -13963,7 +14012,7 @@
         "pdfCreated": "2025-09-12T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:21:39.903Z"
+    "scrapedAt": "2026-09-08T19:34:15.167Z"
   },
   {
     "id": "STEVAL-LLL006V1",
@@ -13985,7 +14034,7 @@
         "pdfCreated": "2019-07-26T09:50:09+02:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:22:11.315Z"
+    "scrapedAt": "2026-09-08T19:34:16.936Z"
   },
   {
     "id": "STM32H735G-DK",
@@ -14041,7 +14090,7 @@
         "pdfCreated": "2023-11-01T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:22:21.589Z"
+    "scrapedAt": "2026-09-08T19:34:18.389Z"
   },
   {
     "id": "STEVAL-ARKIT1CB",
@@ -14052,7 +14101,7 @@
       "STM32H725AG"
     ],
     "schematics": [],
-    "scrapedAt": "2026-06-06T07:22:52.738Z"
+    "scrapedAt": "2026-09-08T19:34:55.596Z"
   },
   {
     "id": "NUCLEO-H7A3ZI-Q",
@@ -14096,7 +14145,7 @@
         "pdfCreated": "2019-10-28T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:23:24.288Z"
+    "scrapedAt": "2026-09-08T19:35:28.070Z"
   },
   {
     "id": "STM32H7B3I-DK",
@@ -14170,7 +14219,7 @@
         "pdfCreated": "2020-11-03T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:23:55.844Z"
+    "scrapedAt": "2026-09-08T19:35:59.923Z"
   },
   {
     "id": "STM32H7B3I-EVAL",
@@ -14244,7 +14293,7 @@
         "pdfCreated": "2020-11-03T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:24:41.802Z"
+    "scrapedAt": "2026-09-08T19:36:01.173Z"
   },
   {
     "id": "STEVAL-IHP002V2",
@@ -14268,7 +14317,8 @@
       "STM32F103VD",
       "STM32F103ZC",
       "STM32F103ZD",
-      "STM32F103ZG"
+      "STM32F103ZG",
+      "STM32F103R8"
     ],
     "schematics": [
       {
@@ -14283,7 +14333,7 @@
         "pdfModified": "2012-03-19T12:37:05+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:24:43.128Z"
+    "scrapedAt": "2026-09-08T19:36:02.785Z"
   },
   {
     "id": "STEVAL-IHP005V1",
@@ -14307,7 +14357,8 @@
       "STM32F103VD",
       "STM32F103ZC",
       "STM32F103ZD",
-      "STM32F103ZG"
+      "STM32F103ZG",
+      "STM32F103R8"
     ],
     "schematics": [
       {
@@ -14322,7 +14373,7 @@
         "pdfModified": "2013-03-14T09:57:24+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:24:50.769Z"
+    "scrapedAt": "2026-09-08T19:36:03.977Z"
   },
   {
     "id": "STEVAL-ILL015V1",
@@ -14346,10 +14397,11 @@
       "STM32F103VD",
       "STM32F103ZC",
       "STM32F103ZD",
-      "STM32F103ZG"
+      "STM32F103ZG",
+      "STM32F103R8"
     ],
     "schematics": [],
-    "scrapedAt": "2026-06-06T07:25:21.960Z"
+    "scrapedAt": "2026-09-08T19:36:35.251Z"
   },
   {
     "id": "STEVAL-ILL035V1",
@@ -14373,7 +14425,8 @@
       "STM32F103VD",
       "STM32F103ZC",
       "STM32F103ZD",
-      "STM32F103ZG"
+      "STM32F103ZG",
+      "STM32F103R8"
     ],
     "schematics": [
       {
@@ -14388,7 +14441,7 @@
         "pdfModified": "2012-06-07T10:39:23+02:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:25:23.195Z"
+    "scrapedAt": "2026-09-08T19:36:36.727Z"
   },
   {
     "id": "STEVAL-IPE023V1",
@@ -14412,7 +14465,8 @@
       "STM32F103VD",
       "STM32F103ZC",
       "STM32F103ZD",
-      "STM32F103ZG"
+      "STM32F103ZG",
+      "STM32F103R8"
     ],
     "schematics": [
       {
@@ -14427,7 +14481,7 @@
         "pdfModified": "2013-01-18T10:35:15+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:25:24.776Z"
+    "scrapedAt": "2026-09-08T19:36:38.549Z"
   },
   {
     "id": "STEVAL-PCC009V2",
@@ -14461,7 +14515,8 @@
       "STM32F103ZC",
       "STM32F103ZD",
       "STM32F103ZF",
-      "STM32F103ZG"
+      "STM32F103ZG",
+      "STM32F103VF"
     ],
     "schematics": [
       {
@@ -14476,7 +14531,7 @@
         "pdfModified": "2010-06-03T10:47:08+02:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:25:26.055Z"
+    "scrapedAt": "2026-09-08T19:36:39.821Z"
   },
   {
     "id": "STEVAL-IHM042V1",
@@ -14499,7 +14554,7 @@
         "pdfModified": "2015-03-31T11:02:09+02:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:25:32.893Z"
+    "scrapedAt": "2026-09-08T19:37:11.040Z"
   },
   {
     "id": "STEVAL-PCC017V1",
@@ -14522,7 +14577,7 @@
         "pdfModified": "2014-04-22T10:29:58+02:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:25:39.172Z"
+    "scrapedAt": "2026-09-08T19:37:12.487Z"
   },
   {
     "id": "EVALKITSTKNX",
@@ -14542,7 +14597,7 @@
         "format": "ZIP"
       }
     ],
-    "scrapedAt": "2026-06-06T07:25:40.389Z"
+    "scrapedAt": "2026-09-08T19:37:14.119Z"
   },
   {
     "id": "STEVAL-IDS001V2",
@@ -14565,7 +14620,7 @@
         "pdfModified": "2013-06-12T15:09:42+02:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:25:41.737Z"
+    "scrapedAt": "2026-09-08T19:37:15.431Z"
   },
   {
     "id": "STEVAL-IDS001V3",
@@ -14588,7 +14643,7 @@
         "pdfModified": "2013-06-12T16:18:17+02:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:25:42.903Z"
+    "scrapedAt": "2026-09-08T19:37:16.637Z"
   },
   {
     "id": "STEVAL-IKR002V3",
@@ -14611,7 +14666,7 @@
         "pdfModified": "2013-05-02T17:38:18+02:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:25:44.130Z"
+    "scrapedAt": "2026-09-08T19:37:17.913Z"
   },
   {
     "id": "STEVAL-IKR002V4",
@@ -14634,7 +14689,7 @@
         "pdfModified": "2013-05-02T17:43:02+02:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:25:45.314Z"
+    "scrapedAt": "2026-09-08T19:37:19.203Z"
   },
   {
     "id": "STEVAL-IKR002V1D",
@@ -14657,7 +14712,7 @@
         "pdfModified": "2014-07-10T15:37:33+02:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:25:46.810Z"
+    "scrapedAt": "2026-09-08T19:37:20.567Z"
   },
   {
     "id": "STEVAL-IKR002V1",
@@ -14680,7 +14735,7 @@
         "pdfModified": "2013-05-02T17:31:27+02:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:25:52.969Z"
+    "scrapedAt": "2026-09-08T19:37:22.111Z"
   },
   {
     "id": "STEVAL-IKR002V2D",
@@ -14703,7 +14758,7 @@
         "pdfModified": "2014-11-11T11:56:01+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:25:54.343Z"
+    "scrapedAt": "2026-09-08T19:37:23.355Z"
   },
   {
     "id": "STEVAL-IKR002V3D",
@@ -14726,7 +14781,7 @@
         "pdfModified": "2014-11-11T11:40:31+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:26:00.107Z"
+    "scrapedAt": "2026-09-08T19:37:24.614Z"
   },
   {
     "id": "STEVAL-IKR002V4B",
@@ -14749,7 +14804,7 @@
         "pdfModified": "2014-01-13T09:37:27+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:26:01.375Z"
+    "scrapedAt": "2026-09-08T19:37:55.948Z"
   },
   {
     "id": "STEVAL-IKR002V4D",
@@ -14772,7 +14827,7 @@
         "pdfModified": "2014-07-10T15:43:36+02:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:26:07.834Z"
+    "scrapedAt": "2026-09-08T19:37:57.282Z"
   },
   {
     "id": "STEVAL-IKR002V5D",
@@ -14795,7 +14850,7 @@
         "pdfModified": "2014-11-11T11:50:54+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:26:13.509Z"
+    "scrapedAt": "2026-09-08T19:37:58.949Z"
   },
   {
     "id": "STEVAL-IKR002V7D",
@@ -14818,7 +14873,7 @@
         "pdfModified": "2015-02-20T10:47:54+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:26:15.143Z"
+    "scrapedAt": "2026-09-08T19:38:00.388Z"
   },
   {
     "id": "STEVAL-WESU1",
@@ -14841,7 +14896,7 @@
         "pdfModified": "2016-04-18T12:14:20+02:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:26:46.842Z"
+    "scrapedAt": "2026-09-08T19:38:32.040Z"
   },
   {
     "id": "NUCLEO-WB15CC",
@@ -14863,7 +14918,7 @@
         "pdfCreated": "2021-01-15T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:27:18.305Z"
+    "scrapedAt": "2026-09-08T19:38:33.399Z"
   },
   {
     "id": "P-NUCLEO-WB55",
@@ -14907,7 +14962,7 @@
         "pdfCreated": "2019-01-24T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:27:49.928Z"
+    "scrapedAt": "2026-09-08T19:39:05.473Z"
   },
   {
     "id": "STM32WB5MM-DK",
@@ -14928,7 +14983,8 @@
       "STM32WB55VY",
       "STM32WB1MMC",
       "STM32WB5MMG",
-      "STM32WB35CE"
+      "STM32WB35CE",
+      "STM32WB55RE"
     ],
     "schematics": [
       {
@@ -14942,7 +14998,7 @@
         "pdfCreated": "2021-01-16T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:27:51.302Z"
+    "scrapedAt": "2026-09-08T19:39:37.138Z"
   },
   {
     "id": "NUCLEO-WB55RG",
@@ -14964,7 +15020,7 @@
         "pdfCreated": "2018-12-20T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:28:23.075Z"
+    "scrapedAt": "2026-09-08T19:40:09.010Z"
   },
   {
     "id": "STEVAL-PROTEUS1",
@@ -14987,7 +15043,7 @@
         "pdfModified": "2022-06-24T12:45:06+01:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:28:54.686Z"
+    "scrapedAt": "2026-09-08T19:40:40.570Z"
   },
   {
     "id": "STDES-WB5M2L",
@@ -15009,7 +15065,7 @@
         "pdfCreated": "2025-01-15T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:28:56.099Z"
+    "scrapedAt": "2026-09-08T19:40:41.848Z"
   },
   {
     "id": "X-NUCLEO-WB05KN1",
@@ -15041,7 +15097,7 @@
         "pdfCreated": "2024-02-21T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:28:57.511Z"
+    "scrapedAt": "2026-09-08T19:40:43.596Z"
   },
   {
     "id": "STDES-WB05KV2LI",
@@ -15064,7 +15120,7 @@
         "pdfCreated": "2025-04-11T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:28:58.618Z"
+    "scrapedAt": "2026-09-08T19:40:44.930Z"
   },
   {
     "id": "STDES-WB05KV2LD",
@@ -15087,7 +15143,7 @@
         "pdfCreated": "2025-04-11T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:29:08.503Z"
+    "scrapedAt": "2026-09-08T19:40:46.179Z"
   },
   {
     "id": "NUCLEO-WB05KZ",
@@ -15119,7 +15175,7 @@
         "pdfCreated": "2025-01-24T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:29:10.300Z"
+    "scrapedAt": "2026-09-08T19:40:47.469Z"
   },
   {
     "id": "STDES-WB07CV2LI",
@@ -15142,7 +15198,7 @@
         "pdfCreated": "2024-08-05T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:29:16.762Z"
+    "scrapedAt": "2026-09-08T19:40:48.746Z"
   },
   {
     "id": "STDES-WB07CV2LD",
@@ -15165,7 +15221,7 @@
         "pdfCreated": "2024-08-05T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:29:18.144Z"
+    "scrapedAt": "2026-09-08T19:40:50.377Z"
   },
   {
     "id": "STDES-WB07CF4LI",
@@ -15187,7 +15243,7 @@
         "pdfCreated": "2025-08-27T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:29:19.515Z"
+    "scrapedAt": "2026-09-08T19:40:51.647Z"
   },
   {
     "id": "NUCLEO-WB07CC",
@@ -15219,7 +15275,7 @@
         "pdfCreated": "2025-01-24T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:29:27.380Z"
+    "scrapedAt": "2026-09-08T19:40:52.887Z"
   },
   {
     "id": "STEVAL-ESL1KCB",
@@ -15230,7 +15286,7 @@
       "STM32WB09KE"
     ],
     "schematics": [],
-    "scrapedAt": "2026-06-06T07:29:58.585Z"
+    "scrapedAt": "2026-09-08T19:41:24.103Z"
   },
   {
     "id": "NUCLEO-WB09KE",
@@ -15262,7 +15318,7 @@
         "pdfCreated": "2025-01-24T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:29:59.765Z"
+    "scrapedAt": "2026-09-08T19:41:25.448Z"
   },
   {
     "id": "STDES-WB09KV2LD",
@@ -15284,7 +15340,7 @@
         "pdfCreated": "2024-08-05T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:30:01.072Z"
+    "scrapedAt": "2026-09-08T19:41:27.129Z"
   },
   {
     "id": "STDES-WB09KV2LI",
@@ -15306,7 +15362,7 @@
         "pdfCreated": "2024-08-05T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:30:07.745Z"
+    "scrapedAt": "2026-09-08T19:41:28.380Z"
   },
   {
     "id": "NUCLEO-WBA52CG",
@@ -15346,7 +15402,7 @@
         "pdfCreated": "2023-09-01T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:30:18.237Z"
+    "scrapedAt": "2026-09-08T19:41:59.852Z"
   },
   {
     "id": "STDES-WBA5U4D2A",
@@ -15368,7 +15424,7 @@
         "pdfCreated": "2025-03-06T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:30:19.369Z"
+    "scrapedAt": "2026-09-08T19:42:01.177Z"
   },
   {
     "id": "NUCLEO-WBA55CG",
@@ -15407,7 +15463,7 @@
         "pdfCreated": "2024-03-04T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:30:50.972Z"
+    "scrapedAt": "2026-09-08T19:42:33.104Z"
   },
   {
     "id": "STDES-WBA5U4D0A",
@@ -15429,7 +15485,7 @@
         "pdfCreated": "2025-03-10T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:31:35.587Z"
+    "scrapedAt": "2026-09-08T19:42:34.520Z"
   },
   {
     "id": "STDES-WBA5U4D2B",
@@ -15451,7 +15507,7 @@
         "pdfCreated": "2023-09-29T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:31:43.158Z"
+    "scrapedAt": "2026-09-08T19:42:36.151Z"
   },
   {
     "id": "STDES-WBA5Y6D1B",
@@ -15473,7 +15529,7 @@
         "pdfCreated": "2025-03-10T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:31:44.649Z"
+    "scrapedAt": "2026-09-08T19:42:37.427Z"
   },
   {
     "id": "STDES-WBA5I4D3B",
@@ -15495,7 +15551,7 @@
         "pdfCreated": "2025-03-10T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:31:51.351Z"
+    "scrapedAt": "2026-09-08T19:42:38.663Z"
   },
   {
     "id": "B-WBA5M-WPAN",
@@ -15517,7 +15573,7 @@
         "pdfCreated": "2024-11-29T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:32:22.930Z"
+    "scrapedAt": "2026-09-08T19:43:10.653Z"
   },
   {
     "id": "B-WL5M-SUBG1",
@@ -15549,7 +15605,7 @@
         "pdfCreated": "2023-11-14T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:32:54.520Z"
+    "scrapedAt": "2026-09-08T19:43:42.214Z"
   },
   {
     "id": "NUCLEO-WL55JC",
@@ -15557,7 +15613,23 @@
     "type": "Nucleo",
     "url": "https://www.st.com/en/evaluation-tools/nucleo-wl55jc.html",
     "deviceIds": [
-      "STM32WL5MOC"
+      "STM32WL5MOC",
+      "STM32WL54CC",
+      "STM32WL54JC",
+      "STM32WL55CC",
+      "STM32WL55JC",
+      "STM32WLE4C8",
+      "STM32WLE4CB",
+      "STM32WLE4CC",
+      "STM32WLE4J8",
+      "STM32WLE4JB",
+      "STM32WLE4JC",
+      "STM32WLE5C8",
+      "STM32WLE5CB",
+      "STM32WLE5CC",
+      "STM32WLE5J8",
+      "STM32WLE5JB",
+      "STM32WLE5JC"
     ],
     "schematics": [
       {
@@ -15571,7 +15643,7 @@
         "pdfCreated": "2020-07-27T00:00:00Z"
       }
     ],
-    "scrapedAt": "2026-06-06T07:33:26.035Z"
+    "scrapedAt": "2026-09-08T19:44:13.827Z"
   },
   {
     "id": "STEVAL-LLL002V1",
@@ -15593,7 +15665,7 @@
         "pdfCreated": "2019-06-06T14:12:34+02:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:33:27.180Z"
+    "scrapedAt": "2026-09-08T19:44:15.096Z"
   },
   {
     "id": "STEVAL-IPE012V3",
@@ -15636,6 +15708,61 @@
         "pdfModified": "2012-06-12T16:31:31+02:00"
       }
     ],
-    "scrapedAt": "2026-06-06T07:33:28.616Z"
+    "scrapedAt": "2026-09-08T19:44:16.409Z"
+  },
+  {
+    "id": "STEVAL-ISA172V3",
+    "name": "STEVAL-ISA172V3",
+    "type": "Evaluation",
+    "url": "https://www.st.com/en/evaluation-tools/steval-isa172v3.html",
+    "deviceIds": [
+      "STM32G474RE"
+    ],
+    "schematics": [],
+    "scrapedAt": "2026-09-08T19:44:47.525Z"
+  },
+  {
+    "id": "STDES-WB09TF4LD",
+    "name": "STDES-WB09TF4LD",
+    "type": "Other",
+    "url": "https://www.st.com/en/evaluation-tools/stdes-wb09tf4ld.html",
+    "deviceIds": [
+      "STM32WB09TE"
+    ],
+    "schematics": [
+      {
+        "id": "MB2203",
+        "title": "MB2203-WB09TF4LD-B01 Board schematic",
+        "version": "1.0",
+        "lastUpdate": "2026-07-21",
+        "url": "https://www.st.com/resource/en/schematic_pack/mb2203-wb09tf4ld-b01-schematic.pdf",
+        "format": "PDF",
+        "pdfBytes": 1249653,
+        "pdfCreated": "2026-05-07T00:00:00Z"
+      }
+    ],
+    "scrapedAt": "2026-09-08T19:44:51.308Z"
+  },
+  {
+    "id": "STDES-WB09TF4LI",
+    "name": "STDES-WB09TF4LI",
+    "type": "Other",
+    "url": "https://www.st.com/en/evaluation-tools/stdes-wb09tf4li.html",
+    "deviceIds": [
+      "STM32WB09TE"
+    ],
+    "schematics": [
+      {
+        "id": "MB2202",
+        "title": "MB2202-WB09TF4LI-B01 Board schematic",
+        "version": "1.0",
+        "lastUpdate": "2026-07-21",
+        "url": "https://www.st.com/resource/en/schematic_pack/mb2202-wb09tf4li-b01-schematic.pdf",
+        "format": "PDF",
+        "pdfBytes": 1193123,
+        "pdfCreated": "2026-05-07T00:00:00Z"
+      }
+    ],
+    "scrapedAt": "2026-09-08T19:44:52.952Z"
   }
 ]
