@@ -1,15 +1,15 @@
 {
-  "scrapedAt": "2026-09-08T21:01:52.293Z",
-  "databaseVersion": 48,
-  "databaseVersionCreatedAt": "2026-09-06T15:19:12.488Z",
+  "scrapedAt": "2026-11-19T04:55:04.524Z",
+  "databaseVersion": 50,
+  "databaseVersionCreatedAt": "2026-11-17T19:20:54.147Z",
   "databaseStructure": 2,
   "databaseStructureCreatedAt": "2026-05-08T08:48:59.502Z",
   "counts": {
-    "families": 32,
-    "subfamilies": 131,
-    "devices": 1801,
-    "documents": 1041,
-    "boards": 321
+    "families": 33,
+    "subfamilies": 135,
+    "devices": 1903,
+    "documents": 1067,
+    "boards": 331
   },
   "files": {
     "families": "families.json",

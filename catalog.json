@@ -48,6 +48,7 @@
       "subfamilyIds": [
         "STM32H503",
         "STM32H523-533",
+        "STM32H543-H553",
         "STM32H562",
         "STM32H563-573",
         "STM32H5E4-5F4",
@@ -69,6 +70,7 @@
         "STM32H750-VALUE-LINE",
         "STM32H7A3-7B3",
         "STM32H7B0-VALUE-LINE",
+        "STM32H7P4-P5",
         "STM32H7R3-7S3",
         "STM32H7R7-7S7"
       ]
@@ -122,6 +124,15 @@
       ]
     },
     {
+      "id": "STM32G0",
+      "name": "STM32G0 series",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32g0-series.html",
+      "subfamilyIds": [
+        "STM32G0X0-VALUE-LINE",
+        "STM32G0X1"
+      ]
+    },
+    {
       "id": "STM32F3",
       "name": "STM32F3 series",
       "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f3-series.html",
@@ -135,15 +146,6 @@
       ]
     },
     {
-      "id": "STM32G0",
-      "name": "STM32G0 series",
-      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32g0-series.html",
-      "subfamilyIds": [
-        "STM32G0X0-VALUE-LINE",
-        "STM32G0X1"
-      ]
-    },
-    {
       "id": "STM32G4",
       "name": "STM32G4 series",
       "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32g4-series.html",
@@ -151,6 +153,15 @@
         "STM32G4X1",
         "STM32G4X3",
         "STM32G4X4"
+      ]
+    },
+    {
+      "id": "STM32G5",
+      "name": "STM32G5 series",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32g5-series.html",
+      "subfamilyIds": [
+        "STM32G5X3",
+        "STM32G5X4"
       ]
     },
     {
@@ -572,6 +583,16 @@
       "documentIds": []
     },
     {
+      "id": "STM32H543-H553",
+      "name": "STM32H543/H553",
+      "familyId": "STM32H5",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h543-h553.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h543-h553/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h543-h553/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
       "id": "STM32H562",
       "name": "STM32H562",
       "familyId": "STM32H5",
@@ -708,6 +729,16 @@
       "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h7b0-value-line.html",
       "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h7b0-value-line/products.html",
       "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h7b0-value-line/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32H7P4-P5",
+      "name": "STM32H7P4/P5",
+      "familyId": "STM32H7",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h7p4-p5.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h7p4-p5/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32h7p4-p5/documentation.html",
       "deviceIds": [],
       "documentIds": []
     },
@@ -872,6 +903,26 @@
       "documentIds": []
     },
     {
+      "id": "STM32G0X0-VALUE-LINE",
+      "name": "STM32G0x0 value line",
+      "familyId": "STM32G0",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32g0x0-value-line.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32g0x0-value-line/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32g0x0-value-line/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32G0X1",
+      "name": "STM32G0x1",
+      "familyId": "STM32G0",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32g0x1.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32g0x1/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32g0x1/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
       "id": "STM32F301",
       "name": "STM32F301",
       "familyId": "STM32F3",
@@ -932,26 +983,6 @@
       "documentIds": []
     },
     {
-      "id": "STM32G0X0-VALUE-LINE",
-      "name": "STM32G0x0 value line",
-      "familyId": "STM32G0",
-      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32g0x0-value-line.html",
-      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32g0x0-value-line/products.html",
-      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32g0x0-value-line/documentation.html",
-      "deviceIds": [],
-      "documentIds": []
-    },
-    {
-      "id": "STM32G0X1",
-      "name": "STM32G0x1",
-      "familyId": "STM32G0",
-      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32g0x1.html",
-      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32g0x1/products.html",
-      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32g0x1/documentation.html",
-      "deviceIds": [],
-      "documentIds": []
-    },
-    {
       "id": "STM32G4X1",
       "name": "STM32G4x1",
       "familyId": "STM32G4",
@@ -978,6 +1009,26 @@
       "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32g4x4.html",
       "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32g4x4/products.html",
       "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32g4x4/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32G5X3",
+      "name": "STM32G5x3",
+      "familyId": "STM32G5",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32g5x3.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32g5x3/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32g5x3/documentation.html",
+      "deviceIds": [],
+      "documentIds": []
+    },
+    {
+      "id": "STM32G5X4",
+      "name": "STM32G5x4",
+      "familyId": "STM32G5",
+      "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32g5x4.html",
+      "productsUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32g5x4/products.html",
+      "documentationUrl": "https://www.st.com/en/microcontrollers-microprocessors/stm32g5x4/documentation.html",
       "deviceIds": [],
       "documentIds": []
     },
